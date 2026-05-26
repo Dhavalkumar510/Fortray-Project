@@ -1,0 +1,2001 @@
+Transaction_Date,Region,Property_Type,EPC_Rating,Days_on_Market,Asking_Price,Sold_Price,Market_Status
+30/01/2025,London,Detached,D,107,1021987,981706,Normal
+08/02/2025,North West,Flat,A,97,163946,16395,Normal
+29/03/2025,London,Semi-Detached,C,19,426746,427734,Normal
+17/01/2025,South East,Detached,A,111,487823,497564,Normal
+13/03/2025,Scotland,Semi-Detached,F,76,261220,26122,Normal
+13/03/2025,London,Semi-Detached,B,25,488570,491530,Normal
+19/01/2025,Yorkshire,Terraced,F,107,255896,267223,Normal
+15/01/2025,London,Flat,B,126,413278,396033,Stagnant
+18/01/2025,West Midlands,Flat,B,79,151380,147655,Normal
+26/02/2025,Scotland,Terraced,F,92,192680,198075,Normal
+24/03/2025,North West,Detached,F,121,312224,299696,Stagnant
+19/02/2025,Yorkshire,Semi-Detached,B,104,182186,174455,Normal
+02/02/2025,Yorkshire,Detached,D,108,378405,373165,Normal
+17/01/2025,Yorkshire,Detached,A,135,296705,284605,Stagnant
+13/03/2025,North West,Semi-Detached,C,57,283544,285957,Normal
+26/01/2025,South East,Flat,A,6,183537,178513,High Demand
+22/03/2025,Wales,Semi-Detached,A,92,261064,271394,Normal
+19/03/2025,Wales,Terraced,F,42,194301,199809,Normal
+07/01/2025,Yorkshire,Detached,B,134,221706,226134,Stagnant
+31/03/2025,Wales,Detached,C,25,202521,204889,Normal
+02/03/2025,Wales,Semi-Detached,A,62,231410,239821,Normal
+13/02/2025,Wales,Flat,A,26,132439,128771,Normal
+16/01/2025,West Midlands,Detached,E,93,419339,434985,Normal
+03/03/2025,Scotland,Flat,F,53,94366,97098,Normal
+30/03/2025,Scotland,Detached,C,63,207875,213033,Normal
+14/02/2025,Yorkshire,Semi-Detached,F,19,219641,220986,Normal
+20/03/2025,South East,Semi-Detached,A,55,374961,365446,Normal
+30/01/2025,Yorkshire,Detached,A,112,298815,296530,Normal
+08/03/2025,Wales,Semi-Detached,B,59,261470,269146,Normal
+01/03/2025,Yorkshire,Terraced,A,-8,281110,267948,High Demand
+21/02/2025,London,Semi-Detached,E,135,729810,750395,Stagnant
+12/01/2025,London,Flat,A,55,404607,394090,Normal
+16/03/2025,London,Semi-Detached,D,139,524194,505549,Stagnant
+18/02/2025,North West,Terraced,B,25,217698,21770,Normal
+01/03/2025,Wales,Flat,C,77,124397,118516,Normal
+09/01/2025,Yorkshire,Terraced,D,22,262461,263080,Normal
+30/03/2025,North West,Flat,E,136,101772,98905,Stagnant
+18/03/2025,London,Terraced,B,93,548504,575349,Normal
+22/03/2025,London,Terraced,E,64,428916,432109,Normal
+24/03/2025,North West,Semi-Detached,C,-8,232052,223649,High Demand
+12/02/2025,South East,Detached,D,13,700323,713542,High Demand
+17/03/2025,London,Detached,E,94,943418,980941,Normal
+20/02/2025,Wales,Detached,E,57,235075,240839,Normal
+09/01/2025,South East,Detached,A,134,726765,695982,Stagnant
+10/03/2025,London,Terraced,C,88,633573,658655,Normal
+19/02/2025,North West,Flat,F,96,96876,99723,Normal
+02/03/2025,London,Flat,C,115,293637,283603,Normal
+01/04/2025,Wales,Detached,E,12,240712,229923,High Demand
+04/03/2025,London,Flat,F,39,254543,256002,Normal
+20/03/2025,London,Semi-Detached,E,85,735939,710626,Normal
+11/02/2025,London,Semi-Detached,F,54,567389,586374,Normal
+06/03/2025,Wales,Detached,C,108,349632,344679,Normal
+31/01/2025,London,Semi-Detached,D,136,512775,533948,Stagnant
+26/01/2025,Wales,Semi-Detached,D,6,155341,156362,High Demand
+09/03/2025,South East,Semi-Detached,C,138,396212,383639,Stagnant
+27/03/2025,South East,Flat,B,58,184752,178093,Normal
+17/02/2025,South East,Detached,E,110,558703,562976,Normal
+31/01/2025,Scotland,Semi-Detached,D,8,259957,266765,High Demand
+10/02/2025,Scotland,Terraced,E,58,209617,215518,Normal
+16/03/2025,Yorkshire,Flat,C,48,140397,137248,Normal
+17/01/2025,Yorkshire,Semi-Detached,F,18,172833,167721,Normal
+18/03/2025,London,Detached,B,99,581430,553333,Normal
+16/01/2025,South East,Flat,B,52,184289,187591,Normal
+03/03/2025,Wales,Terraced,C,19,213320,204287,Normal
+19/02/2025,London,Flat,C,44,259952,257893,Normal
+21/03/2025,South East,Flat,F,86,223271,225541,Normal
+04/01/2025,Yorkshire,Terraced,B,115,225162,235004,Normal
+30/01/2025,Yorkshire,Semi-Detached,B,57,203691,199857,Normal
+15/03/2025,London,Semi-Detached,F,28,457289,445847,Normal
+24/01/2025,Scotland,Detached,C,128,249897,253749,Stagnant
+27/01/2025,Wales,Terraced,A,45,253719,256744,Normal
+11/01/2025,South East,Flat,C,19,267369,262881,Normal
+20/02/2025,Wales,Detached,D,49,281072,293105,Normal
+10/03/2025,Yorkshire,Detached,B,69,215168,222588,Normal
+24/01/2025,North West,Terraced,B,93,298938,290687,Normal
+26/03/2025,North West,Terraced,E,75,254004,247378,Normal
+20/01/2025,South East,Detached,B,13,500704,501320,High Demand
+18/01/2025,Wales,Semi-Detached,D,-5,247710,254487,High Demand
+12/02/2025,South East,Terraced,F,133,343316,327662,Stagnant
+01/04/2025,Scotland,Terraced,A,140,212546,216655,Stagnant
+27/02/2025,South East,Terraced,D,67,435837,442298,System_Error_Null
+07/02/2025,South East,Terraced,D,143,334161,325188,Stagnant
+28/01/2025,Wales,Detached,A,85,363795,370393,Normal
+23/03/2025,Yorkshire,Semi-Detached,C,140,251510,262581,Stagnant
+27/03/2025,North West,Flat,E,37,142856,136382,Normal
+06/02/2025,Yorkshire,Semi-Detached,E,127,176019,172845,Stagnant
+29/01/2025,London,Terraced,B,9,418850,416261,High Demand
+16/01/2025,London,Detached,E,45,716829,745449,Normal
+11/03/2025,London,Terraced,E,32,663616,694292,Normal
+18/03/2025,London,Semi-Detached,E,139,494266,491504,Stagnant
+10/03/2025,Scotland,Semi-Detached,B,76,211984,217284,Normal
+19/03/2025,South East,Flat,C,16,275008,275879,Normal
+20/02/2025,Yorkshire,Detached,E,37,232899,233779,Normal
+02/02/2025,West Midlands,Semi-Detached,B,52,281536,275289,Normal
+15/01/2025,Yorkshire,Flat,B,-11,98531,95742,High Demand
+20/03/2025,North West,Terraced,D,41,295118,288862,Normal
+04/02/2025,Yorkshire,Terraced,D,103,216956,218178,System_Error_Null
+21/01/2025,Wales,Detached,D,108,221841,22184,Normal
+03/03/2025,Wales,Terraced,C,39,181942,189352,Normal
+25/03/2025,North West,Terraced,C,105,217878,210389,Normal
+22/01/2025,South East,Flat,A,135,279453,271631,Stagnant
+31/03/2025,West Midlands,Terraced,C,5,290487,291018,High Demand
+02/01/2025,Wales,Flat,B,9,128978,131688,High Demand
+03/03/2025,West Midlands,Terraced,E,146,192313,184539,Stagnant
+13/01/2025,Scotland,Semi-Detached,C,107,163098,160124,Normal
+07/01/2025,North West,Flat,F,31,103876,108744,Normal
+29/01/2025,Scotland,Flat,C,141,130034,13003,Stagnant
+06/01/2025,West Midlands,Detached,E,19,435511,427369,Normal
+02/02/2025,London,Semi-Detached,D,94,551830,570399,Normal
+21/03/2025,South East,Terraced,A,46,319408,305041,Normal
+01/03/2025,South East,Flat,B,128,250032,249147,Stagnant
+23/02/2025,North West,Semi-Detached,B,67,273645,270351,Normal
+28/03/2025,Wales,Semi-Detached,F,100,230860,226625,Normal
+19/03/2025,Yorkshire,Flat,A,56,161540,158078,Normal
+14/03/2025,Wales,Flat,D,100,104426,100159,Normal
+01/03/2025,Scotland,Flat,F,136,101063,99191,Stagnant
+23/01/2025,West Midlands,Detached,A,147,436088,416161,Stagnant
+21/01/2025,South East,Semi-Detached,C,33,441102,453496,Normal
+13/03/2025,North West,Detached,A,40,284942,282042,Normal
+28/01/2025,West Midlands,Terraced,F,17,290322,288693,Normal
+04/03/2025,West Midlands,Semi-Detached,A,75,301528,313396,Normal
+22/03/2025,North West,Detached,C,90,344536,349981,Normal
+26/02/2025,Yorkshire,Semi-Detached,F,32,243489,231510,Normal
+02/02/2025,London,Semi-Detached,F,-12,531341,554889,High Demand
+28/02/2025,West Midlands,Flat,D,49,155375,151291,Normal
+11/01/2025,Wales,Terraced,E,66,204209,196197,Normal
+09/02/2025,West Midlands,Detached,F,138,429239,440748,Stagnant
+06/02/2025,North West,Detached,D,32,388633,388651,Normal
+22/02/2025,South East,Terraced,F,32,484007,480801,Normal
+11/02/2025,Scotland,Detached,C,112,203546,198447,Normal
+21/01/2025,London,Semi-Detached,F,48,662341,665485,Normal
+18/02/2025,Wales,Terraced,D,88,232938,227682,Normal
+26/02/2025,North West,Detached,C,34,356962,371297,Normal
+01/03/2025,North West,Terraced,C,79,265877,258305,Normal
+06/01/2025,Wales,Detached,C,132,340398,353481,System_Error_Null
+19/01/2025,South East,Terraced,D,96,395228,397576,Normal
+19/02/2025,South East,Terraced,B,133,403002,416240,Stagnant
+26/02/2025,West Midlands,Detached,B,125,273288,279105,Stagnant
+20/01/2025,North West,Terraced,F,31,213953,218161,Normal
+25/02/2025,Yorkshire,Flat,A,125,142541,140037,Stagnant
+22/01/2025,North West,Semi-Detached,B,120,269256,262091,Normal
+24/02/2025,West Midlands,Detached,C,7,293230,284753,High Demand
+22/03/2025,North West,Semi-Detached,C,107,179295,185699,Normal
+02/02/2025,London,Flat,B,141,379239,391391,Stagnant
+27/02/2025,London,Detached,C,66,560921,557588,Normal
+25/03/2025,South East,Semi-Detached,D,55,323701,311802,Normal
+05/01/2025,Wales,Flat,E,63,86137,85123,Normal
+13/02/2025,London,Flat,D,122,275046,278328,Stagnant
+27/02/2025,Wales,Flat,E,100,97327,96883,Normal
+25/03/2025,Yorkshire,Detached,B,117,284985,292970,Normal
+06/03/2025,Scotland,Terraced,A,-17,194693,204382,High Demand
+31/01/2025,London,Detached,D,56,988389,957860,Normal
+02/01/2025,Wales,Terraced,B,16,202488,201671,Normal
+28/03/2025,West Midlands,Detached,C,43,402366,399589,Normal
+13/03/2025,West Midlands,Terraced,F,134,192037,188283,Stagnant
+28/01/2025,South East,Semi-Detached,E,135,335232,325112,Stagnant
+26/02/2025,West Midlands,Semi-Detached,C,117,284253,271908,Normal
+17/01/2025,London,Semi-Detached,D,105,418481,434682,Normal
+28/03/2025,South East,Detached,B,117,558903,554423,Normal
+04/01/2025,South East,Detached,D,-6,597584,597398,High Demand
+12/03/2025,West Midlands,Terraced,B,117,268730,279935,Normal
+15/01/2025,Scotland,Detached,A,6,205645,211327,High Demand
+09/03/2025,Wales,Terraced,B,134,179458,172827,Stagnant
+01/02/2025,West Midlands,Terraced,B,58,274020,275812,Normal
+01/03/2025,South East,Semi-Detached,F,91,316505,314677,Normal
+13/03/2025,South East,Terraced,C,133,450377,463763,Stagnant
+11/02/2025,London,Terraced,E,130,661074,675897,Stagnant
+29/03/2025,West Midlands,Terraced,A,134,327223,333454,Stagnant
+02/01/2025,South East,Detached,D,57,463976,456577,Normal
+31/01/2025,North West,Terraced,D,72,275518,283921,Normal
+20/03/2025,Yorkshire,Detached,B,127,309679,295818,Stagnant
+12/03/2025,Yorkshire,Detached,B,149,282339,272729,Stagnant
+22/03/2025,South East,Flat,C,42,185989,182932,Normal
+09/03/2025,North West,Detached,B,28,368159,352579,System_Error_Null
+05/02/2025,London,Semi-Detached,D,73,482550,469762,Normal
+08/02/2025,South East,Terraced,D,120,370998,383247,Normal
+11/01/2025,Scotland,Terraced,B,102,151880,158688,Normal
+04/01/2025,Yorkshire,Detached,B,143,362015,354941,Stagnant
+24/02/2025,North West,Semi-Detached,B,148,267322,261027,Stagnant
+27/02/2025,South East,Semi-Detached,A,-12,459736,449617,High Demand
+28/02/2025,Yorkshire,Detached,C,128,268556,262587,Stagnant
+19/02/2025,Wales,Flat,E,74,96751,92261,Normal
+29/01/2025,North West,Semi-Detached,B,97,249257,259899,Normal
+16/03/2025,South East,Terraced,A,7,401561,390064,High Demand
+14/01/2025,Scotland,Semi-Detached,B,94,166460,165128,System_Error_Null
+01/04/2025,Wales,Flat,A,100,134414,127824,Normal
+31/03/2025,South East,Terraced,A,56,522826,541541,Normal
+21/01/2025,Yorkshire,Semi-Detached,F,132,251380,257191,Stagnant
+24/03/2025,West Midlands,Detached,C,43,405941,424077,Normal
+22/02/2025,South East,Semi-Detached,B,86,512827,527269,Normal
+07/03/2025,Scotland,Terraced,E,108,169570,166411,Normal
+10/01/2025,North West,Flat,E,133,143506,139888,Stagnant
+31/01/2025,North West,Detached,F,15,416011,424236,Normal
+09/03/2025,Scotland,Detached,E,46,230758,227622,Normal
+02/03/2025,Scotland,Semi-Detached,A,103,232232,233769,Normal
+13/03/2025,London,Flat,E,11,363020,345096,High Demand
+05/03/2025,Wales,Semi-Detached,C,148,211844,21184,Stagnant
+02/02/2025,Scotland,Detached,A,94,324669,325817,Normal
+03/02/2025,Scotland,Terraced,C,116,261132,262857,Normal
+17/02/2025,Wales,Flat,A,64,141520,145078,Normal
+01/03/2025,North West,Flat,F,117,100715,97009,Normal
+07/03/2025,Scotland,Semi-Detached,E,6,251444,251775,High Demand
+12/01/2025,Scotland,Terraced,D,133,172418,167150,Stagnant
+30/03/2025,Yorkshire,Terraced,B,52,202130,193907,Normal
+25/03/2025,West Midlands,Detached,E,144,345950,342853,Stagnant
+01/03/2025,Yorkshire,Flat,E,41,129576,125214,Normal
+18/03/2025,South East,Semi-Detached,F,13,386619,375863,System_Error_Null
+13/01/2025,West Midlands,Semi-Detached,C,103,320352,314508,Normal
+14/03/2025,South East,Flat,B,52,271785,265245,Normal
+03/03/2025,North West,Detached,F,135,347709,333370,Stagnant
+28/01/2025,London,Terraced,B,58,417445,400326,Normal
+13/02/2025,North West,Flat,A,124,171929,166655,Stagnant
+27/02/2025,West Midlands,Semi-Detached,C,120,316046,301842,Normal
+24/02/2025,Yorkshire,Terraced,C,79,255768,259003,Normal
+05/01/2025,West Midlands,Flat,E,117,106249,103990,Normal
+09/02/2025,North West,Semi-Detached,F,108,168019,164319,Normal
+12/02/2025,South East,Flat,D,88,201108,197729,Normal
+18/02/2025,Yorkshire,Flat,A,116,101682,103337,Normal
+18/02/2025,Yorkshire,Detached,E,103,287063,297703,Normal
+03/03/2025,West Midlands,Semi-Detached,C,97,318084,326325,Normal
+22/01/2025,Yorkshire,Semi-Detached,D,132,214784,219671,Stagnant
+09/01/2025,Scotland,Flat,E,114,87413,87277,Normal
+27/02/2025,London,Flat,B,86,299377,305179,Normal
+05/03/2025,Yorkshire,Flat,C,58,94759,95259,Normal
+09/02/2025,London,Detached,B,72,577781,561386,Normal
+07/01/2025,Scotland,Detached,F,37,250237,242945,Normal
+19/02/2025,Scotland,Terraced,F,146,178727,175088,Stagnant
+30/01/2025,Wales,Semi-Detached,B,25,236423,246135,Normal
+09/02/2025,South East,Semi-Detached,C,52,518834,521295,Normal
+17/02/2025,Wales,Terraced,D,132,185473,189811,Stagnant
+11/03/2025,Scotland,Flat,E,140,118824,117001,Stagnant
+05/01/2025,Scotland,Terraced,A,139,250443,248132,Stagnant
+02/02/2025,London,Semi-Detached,B,149,493849,475357,Stagnant
+13/01/2025,Wales,Semi-Detached,A,132,159157,153925,Stagnant
+06/01/2025,West Midlands,Flat,B,37,184425,190463,Normal
+04/01/2025,South East,Semi-Detached,B,119,291393,293865,Normal
+16/01/2025,South East,Detached,A,123,604557,594735,Stagnant
+28/03/2025,London,Flat,D,26,358018,368861,System_Error_Null
+17/01/2025,West Midlands,Terraced,C,42,229272,223460,Normal
+09/01/2025,West Midlands,Terraced,B,113,224539,235228,Normal
+26/02/2025,Wales,Semi-Detached,C,55,234553,230913,Normal
+21/03/2025,Scotland,Flat,F,12,92934,91422,High Demand
+25/01/2025,South East,Semi-Detached,C,31,338012,331655,Normal
+06/03/2025,Yorkshire,Semi-Detached,A,31,249416,239991,Normal
+23/02/2025,South East,Flat,D,25,248603,238936,Normal
+05/01/2025,London,Detached,B,34,622714,631937,Normal
+29/03/2025,Scotland,Flat,D,101,153089,158832,Normal
+17/03/2025,London,Detached,E,-18,752789,774660,High Demand
+12/01/2025,London,Terraced,A,115,689754,664999,Normal
+07/02/2025,West Midlands,Terraced,B,65,297308,298663,Normal
+10/02/2025,West Midlands,Semi-Detached,A,52,272162,261427,Normal
+17/03/2025,London,Flat,B,8,343841,328206,High Demand
+22/02/2025,London,Flat,E,39,445706,452676,Normal
+09/02/2025,London,Detached,F,53,631033,633251,Normal
+19/01/2025,Scotland,Semi-Detached,C,21,235370,225532,Normal
+09/02/2025,North West,Terraced,C,50,186767,178081,Normal
+31/01/2025,Wales,Detached,C,121,254012,266453,Stagnant
+18/01/2025,North West,Terraced,A,10,203218,20322,High Demand
+10/02/2025,South East,Detached,D,103,716833,712857,Normal
+19/01/2025,Scotland,Semi-Detached,C,128,265887,266010,Stagnant
+21/01/2025,West Midlands,Flat,D,41,122511,117822,Normal
+30/03/2025,South East,Flat,A,28,171239,165572,Normal
+04/02/2025,North West,Flat,B,97,156481,154162,Normal
+12/02/2025,London,Semi-Detached,D,50,546296,560592,Normal
+23/01/2025,West Midlands,Semi-Detached,E,99,189681,189816,Normal
+05/02/2025,North West,Flat,C,103,153435,155551,Normal
+08/03/2025,Yorkshire,Semi-Detached,F,120,224499,235391,Normal
+22/02/2025,North West,Terraced,E,71,297272,305239,Normal
+12/02/2025,South East,Semi-Detached,B,132,335715,333512,Stagnant
+28/03/2025,Wales,Terraced,E,22,189487,188472,Normal
+20/03/2025,Wales,Detached,B,29,289047,292480,Normal
+02/01/2025,Yorkshire,Terraced,A,58,257296,261551,System_Error_Null
+09/03/2025,North West,Flat,D,62,142102,142113,Normal
+09/03/2025,West Midlands,Semi-Detached,C,71,270387,274303,Normal
+24/03/2025,Yorkshire,Flat,C,108,109247,104041,Normal
+19/03/2025,South East,Flat,D,28,292497,290439,Normal
+17/03/2025,London,Flat,D,118,330012,322717,Normal
+03/03/2025,North West,Flat,F,36,107841,103842,Normal
+24/01/2025,West Midlands,Semi-Detached,E,90,278285,267141,Normal
+27/01/2025,Wales,Detached,F,131,233060,235465,Stagnant
+29/01/2025,Wales,Flat,F,134,91171,91386,Stagnant
+29/03/2025,Wales,Detached,F,-12,343831,335358,High Demand
+27/01/2025,Yorkshire,Terraced,F,108,213202,212582,Normal
+22/02/2025,Yorkshire,Detached,B,141,352317,352043,Stagnant
+29/03/2025,Scotland,Detached,C,47,252860,245148,Normal
+21/02/2025,South East,Detached,B,43,661931,671998,Normal
+19/03/2025,Yorkshire,Detached,B,30,233642,240206,Normal
+10/01/2025,South East,Flat,D,103,220328,226750,Normal
+22/01/2025,North West,Flat,A,54,178157,179983,Normal
+08/03/2025,South East,Flat,D,17,284716,285048,Normal
+06/02/2025,Yorkshire,Semi-Detached,F,64,218135,208559,Normal
+20/03/2025,Yorkshire,Terraced,D,139,197190,193007,Stagnant
+07/02/2025,Wales,Terraced,B,61,246837,236797,Normal
+23/01/2025,Wales,Flat,A,40,124046,129800,Normal
+24/02/2025,Wales,Flat,D,24,139744,134645,Normal
+14/02/2025,London,Detached,D,69,929513,897145,System_Error_Null
+09/01/2025,Scotland,Flat,A,12,87757,91175,High Demand
+07/03/2025,West Midlands,Detached,D,148,273620,285767,Stagnant
+15/03/2025,South East,Terraced,F,146,441609,453348,Stagnant
+07/02/2025,Wales,Detached,D,-7,223718,212653,High Demand
+20/02/2025,Scotland,Semi-Detached,C,147,176192,17619,Stagnant
+20/02/2025,Yorkshire,Semi-Detached,C,96,277903,274515,Normal
+08/01/2025,South East,Semi-Detached,A,102,417245,402366,Normal
+14/02/2025,Yorkshire,Detached,D,70,352586,335605,Normal
+16/02/2025,Wales,Detached,D,36,291694,290646,System_Error_Null
+25/02/2025,North West,Detached,E,90,332293,347015,Normal
+06/03/2025,Wales,Flat,E,55,90920,89318,Normal
+29/03/2025,Yorkshire,Semi-Detached,C,67,197707,200893,Normal
+04/03/2025,North West,Semi-Detached,B,129,199540,202578,Stagnant
+04/03/2025,Wales,Semi-Detached,B,62,187864,183188,Normal
+06/02/2025,Scotland,Detached,D,62,342428,347579,Normal
+13/02/2025,North West,Detached,F,90,296899,288358,Normal
+09/03/2025,South East,Detached,D,53,546932,526258,Normal
+20/02/2025,London,Detached,C,74,754717,769916,Normal
+18/01/2025,Scotland,Semi-Detached,A,19,155769,149748,Normal
+05/01/2025,London,Semi-Detached,D,58,554375,581923,Normal
+01/02/2025,London,Semi-Detached,E,105,468463,453634,Normal
+03/03/2025,West Midlands,Detached,E,12,286658,289356,High Demand
+26/01/2025,Scotland,Semi-Detached,A,57,155849,154467,Normal
+24/03/2025,Scotland,Semi-Detached,A,64,188941,181881,Normal
+06/03/2025,West Midlands,Semi-Detached,C,112,292652,278834,Normal
+23/02/2025,Scotland,Detached,D,9,250364,253437,High Demand
+01/01/2025,North West,Detached,F,107,285220,293970,Normal
+27/02/2025,Scotland,Flat,E,10,134986,139603,High Demand
+05/01/2025,Wales,Flat,D,113,98394,98224,Normal
+12/02/2025,Yorkshire,Semi-Detached,B,120,271295,278823,Normal
+08/02/2025,London,Flat,B,98,349240,355277,Normal
+23/01/2025,London,Terraced,E,51,556661,569144,Normal
+12/03/2025,Wales,Flat,E,103,125000,124907,Normal
+16/03/2025,North West,Flat,C,59,109947,111414,Normal
+27/03/2025,Scotland,Flat,F,56,132779,136835,Normal
+03/02/2025,South East,Flat,E,148,221376,219115,Stagnant
+20/02/2025,North West,Terraced,A,17,285606,294345,Normal
+12/03/2025,Yorkshire,Detached,C,118,244241,246488,Normal
+11/01/2025,Yorkshire,Flat,B,128,131663,127264,Stagnant
+04/02/2025,Wales,Semi-Detached,A,110,213269,203132,Normal
+12/03/2025,South East,Semi-Detached,D,149,288179,284224,Stagnant
+20/02/2025,North West,Flat,A,124,126550,127141,Stagnant
+03/03/2025,Yorkshire,Semi-Detached,C,67,249440,257917,Normal
+07/03/2025,Wales,Flat,C,23,144298,138922,Normal
+23/01/2025,South East,Terraced,B,96,356725,367434,Normal
+17/03/2025,Yorkshire,Detached,C,62,361498,374621,Normal
+07/01/2025,Wales,Semi-Detached,D,94,258550,249519,Normal
+16/01/2025,North West,Flat,F,121,167977,173883,Stagnant
+15/01/2025,North West,Detached,A,66,247058,259200,Normal
+31/01/2025,North West,Flat,F,-4,158137,161725,High Demand
+15/03/2025,South East,Semi-Detached,E,131,358318,368522,Stagnant
+16/01/2025,South East,Detached,A,141,731027,767170,Stagnant
+07/01/2025,London,Semi-Detached,F,144,569876,575887,Stagnant
+19/03/2025,Yorkshire,Terraced,B,133,168284,165051,Stagnant
+17/01/2025,South East,Detached,A,62,640739,662366,Normal
+04/02/2025,South East,Terraced,B,126,359138,363249,Stagnant
+05/01/2025,West Midlands,Terraced,A,5,329550,332226,High Demand
+20/03/2025,Wales,Semi-Detached,B,38,260023,253617,Normal
+24/03/2025,London,Detached,C,100,881506,904102,Normal
+30/01/2025,London,Terraced,D,130,445439,426805,Stagnant
+06/01/2025,West Midlands,Semi-Detached,F,122,281777,293732,Stagnant
+14/03/2025,Scotland,Flat,A,-14,93433,91806,High Demand
+20/01/2025,Wales,Detached,C,93,201036,193553,Normal
+01/01/2025,Wales,Detached,D,121,337137,33714,Stagnant
+11/02/2025,South East,Flat,D,133,198834,189736,Stagnant
+13/02/2025,North West,Detached,B,20,298289,303797,Normal
+27/01/2025,London,Semi-Detached,C,73,740710,770539,Normal
+16/02/2025,North West,Flat,D,26,124295,128487,Normal
+03/03/2025,Wales,Flat,B,97,105792,101850,Normal
+03/01/2025,North West,Detached,C,80,403969,388871,Normal
+16/01/2025,Wales,Semi-Detached,D,148,153567,158380,Stagnant
+01/01/2025,West Midlands,Detached,A,90,410166,427567,Normal
+18/01/2025,Yorkshire,Detached,E,33,396778,395217,Normal
+20/03/2025,Scotland,Semi-Detached,D,73,257563,257537,Normal
+26/02/2025,North West,Detached,C,51,351727,345335,Normal
+09/03/2025,Yorkshire,Semi-Detached,B,98,193770,201410,Normal
+04/01/2025,Yorkshire,Flat,D,-18,111495,113110,High Demand
+15/03/2025,West Midlands,Flat,A,-14,181299,177460,High Demand
+25/01/2025,West Midlands,Semi-Detached,B,43,311493,305225,System_Error_Null
+11/01/2025,South East,Detached,D,104,572224,594610,Normal
+12/02/2025,Scotland,Flat,C,37,104872,99771,Normal
+05/02/2025,North West,Detached,C,105,246137,241774,Normal
+09/02/2025,London,Terraced,B,27,430513,432853,Normal
+24/03/2025,London,Terraced,C,14,651677,628752,Normal
+17/02/2025,London,Detached,F,73,765858,734619,Normal
+23/02/2025,Scotland,Terraced,F,104,258075,266212,Normal
+01/01/2025,Wales,Detached,D,38,322854,335587,Normal
+07/01/2025,North West,Detached,B,142,261487,269949,Stagnant
+25/03/2025,Scotland,Terraced,E,100,221336,230163,Normal
+24/01/2025,London,Terraced,C,5,552427,555361,High Demand
+16/02/2025,North West,Terraced,B,73,240815,248335,Normal
+04/01/2025,Wales,Detached,A,8,322579,318838,High Demand
+25/03/2025,West Midlands,Flat,A,20,180092,18009,Normal
+20/03/2025,South East,Detached,E,28,681402,714711,Normal
+25/02/2025,London,Flat,B,-9,293335,285289,High Demand
+18/01/2025,London,Terraced,C,6,410890,406367,High Demand
+15/01/2025,London,Terraced,B,132,658753,657439,Stagnant
+07/02/2025,North West,Semi-Detached,A,88,174888,168557,Normal
+17/01/2025,West Midlands,Terraced,A,144,224498,215092,Stagnant
+21/01/2025,North West,Flat,D,128,96321,99497,Stagnant
+27/02/2025,West Midlands,Detached,E,37,393368,412124,Normal
+15/03/2025,London,Terraced,B,105,458496,454128,Normal
+05/02/2025,South East,Terraced,D,16,440544,422378,Normal
+25/03/2025,West Midlands,Flat,C,71,197237,188673,Normal
+06/01/2025,Wales,Terraced,D,69,148902,154729,Normal
+13/02/2025,North West,Detached,C,78,239107,238242,Normal
+01/03/2025,Yorkshire,Terraced,D,47,197271,193720,Normal
+17/02/2025,Wales,Semi-Detached,D,48,246132,245553,Normal
+20/03/2025,North West,Semi-Detached,A,33,190174,186719,Normal
+23/03/2025,London,Terraced,A,145,526132,525555,Stagnant
+26/01/2025,Scotland,Flat,E,16,91579,94872,Normal
+17/03/2025,London,Terraced,B,99,667104,673262,Normal
+24/01/2025,Scotland,Detached,A,50,273625,278951,Normal
+03/02/2025,Wales,Semi-Detached,D,134,233008,229855,Stagnant
+06/01/2025,London,Detached,E,39,1002768,1026684,Normal
+14/03/2025,Scotland,Detached,C,85,242659,246703,Normal
+24/03/2025,Yorkshire,Terraced,A,94,259384,249516,Normal
+06/02/2025,West Midlands,Terraced,B,12,185100,186445,High Demand
+14/02/2025,South East,Detached,E,97,700305,683269,Normal
+25/03/2025,North West,Terraced,C,94,251108,258744,Normal
+01/03/2025,London,Terraced,E,119,705979,70598,Normal
+27/02/2025,Yorkshire,Detached,F,109,212835,21284,Normal
+08/03/2025,Scotland,Semi-Detached,D,139,165304,158568,Stagnant
+25/03/2025,South East,Terraced,A,62,375491,386018,Normal
+24/02/2025,Yorkshire,Semi-Detached,D,118,202474,205991,Normal
+25/02/2025,South East,Semi-Detached,A,79,335549,344525,Normal
+18/02/2025,South East,Detached,E,124,522893,512829,Stagnant
+09/01/2025,West Midlands,Detached,A,25,274180,273962,Normal
+10/02/2025,Yorkshire,Detached,E,142,289656,298245,Stagnant
+13/01/2025,South East,Detached,D,105,667208,649362,Normal
+23/02/2025,Wales,Semi-Detached,C,103,198686,193243,System_Error_Null
+01/03/2025,Wales,Detached,D,40,199087,200103,Normal
+22/03/2025,West Midlands,Terraced,F,100,240902,241470,Normal
+16/02/2025,London,Terraced,D,41,409511,400595,Normal
+25/01/2025,London,Detached,C,16,1033459,1012591,Normal
+14/01/2025,London,Terraced,E,117,444609,434732,Normal
+23/01/2025,West Midlands,Terraced,C,17,284984,292722,Normal
+11/03/2025,West Midlands,Detached,B,27,456131,463059,Normal
+16/02/2025,South East,Detached,B,103,675331,697781,Normal
+01/02/2025,London,Terraced,D,-3,644760,675417,High Demand
+10/01/2025,Scotland,Flat,C,34,149863,149476,Normal
+07/01/2025,Yorkshire,Detached,D,21,395611,378469,Normal
+15/02/2025,Wales,Semi-Detached,D,117,216115,206348,Normal
+06/03/2025,West Midlands,Terraced,B,66,262114,256759,Normal
+17/02/2025,Wales,Detached,E,88,303743,316881,Normal
+11/02/2025,Yorkshire,Terraced,B,116,222846,223363,Normal
+11/01/2025,Yorkshire,Detached,D,90,331054,323499,Normal
+18/02/2025,North West,Detached,D,145,312169,309021,Stagnant
+28/01/2025,Yorkshire,Flat,F,23,108632,109703,Normal
+15/03/2025,West Midlands,Semi-Detached,A,104,194518,197493,Normal
+07/02/2025,London,Terraced,B,144,423919,409248,Stagnant
+13/02/2025,Yorkshire,Detached,A,80,261829,274319,Normal
+26/03/2025,London,Detached,D,13,582601,585209,High Demand
+26/03/2025,North West,Terraced,F,32,239404,230682,Normal
+24/02/2025,Scotland,Semi-Detached,F,132,179762,186838,Stagnant
+08/03/2025,Yorkshire,Detached,A,56,366328,350746,Normal
+13/02/2025,Scotland,Flat,B,87,92013,95764,Normal
+02/03/2025,Scotland,Detached,C,115,241528,253522,Normal
+27/03/2025,South East,Detached,C,148,642474,655352,Stagnant
+06/01/2025,London,Detached,D,121,853416,876496,System_Error_Null
+28/03/2025,North West,Semi-Detached,E,73,169029,166279,Normal
+13/01/2025,Scotland,Terraced,F,103,254532,265772,Normal
+17/02/2025,South East,Terraced,A,144,494929,496400,Stagnant
+28/01/2025,West Midlands,Flat,F,29,136130,139293,Normal
+12/02/2025,West Midlands,Terraced,F,127,228422,238110,Stagnant
+13/02/2025,Scotland,Terraced,D,57,268618,281382,Normal
+18/02/2025,South East,Flat,A,148,260048,268713,Stagnant
+07/02/2025,London,Detached,B,61,820345,804186,Normal
+05/02/2025,North West,Detached,E,43,388278,406393,Normal
+11/03/2025,Scotland,Terraced,F,113,179947,182252,Normal
+20/02/2025,South East,Detached,B,46,539210,562430,Normal
+19/02/2025,Yorkshire,Terraced,D,146,187614,190918,Stagnant
+08/02/2025,Scotland,Terraced,B,126,243434,238742,Stagnant
+05/03/2025,North West,Semi-Detached,A,137,240269,237146,Stagnant
+01/03/2025,Scotland,Semi-Detached,F,79,227012,228158,Normal
+03/01/2025,North West,Flat,C,80,117194,120593,Normal
+13/01/2025,Yorkshire,Terraced,A,13,181290,177990,High Demand
+06/01/2025,West Midlands,Flat,B,78,150726,151928,Normal
+18/03/2025,London,Detached,B,149,921407,907183,Stagnant
+17/02/2025,Wales,Semi-Detached,A,11,204342,210794,High Demand
+06/01/2025,Wales,Detached,C,145,201599,200928,Stagnant
+22/03/2025,Scotland,Flat,D,141,152062,145626,Stagnant
+19/02/2025,Wales,Detached,B,31,207094,200178,Normal
+27/01/2025,Wales,Flat,B,126,154253,147483,System_Error_Null
+29/03/2025,South East,Terraced,C,9,286160,286140,High Demand
+13/01/2025,London,Semi-Detached,C,33,643058,617743,Normal
+11/02/2025,North West,Flat,F,87,102905,98935,System_Error_Null
+02/01/2025,North West,Terraced,A,140,287495,300175,Stagnant
+20/02/2025,London,Terraced,A,113,562552,583515,Normal
+09/02/2025,Yorkshire,Semi-Detached,C,69,170291,169475,Normal
+14/03/2025,Scotland,Detached,C,90,261720,274434,Normal
+18/03/2025,West Midlands,Flat,F,149,120830,114791,Stagnant
+03/03/2025,North West,Terraced,C,75,183881,185977,Normal
+13/03/2025,Wales,Flat,F,49,153686,155475,Normal
+05/03/2025,South East,Flat,A,136,233451,232458,Stagnant
+02/03/2025,London,Flat,F,40,405648,401468,Normal
+08/01/2025,North West,Terraced,C,74,249545,248431,Normal
+13/03/2025,Yorkshire,Flat,C,23,145179,143944,Normal
+20/03/2025,South East,Detached,A,112,437171,447247,Normal
+14/01/2025,South East,Detached,F,95,472325,455102,Normal
+08/01/2025,Yorkshire,Terraced,D,94,256638,248878,Normal
+25/03/2025,Wales,Semi-Detached,B,23,258919,250647,Normal
+04/03/2025,London,Terraced,B,43,491936,480252,Normal
+23/01/2025,London,Detached,B,130,693069,694819,Stagnant
+22/01/2025,North West,Terraced,A,145,226206,217411,Stagnant
+27/01/2025,South East,Terraced,C,130,521041,540224,Stagnant
+19/01/2025,London,Semi-Detached,D,62,494136,484123,Normal
+21/02/2025,Wales,Flat,A,65,113912,110068,Normal
+28/02/2025,South East,Semi-Detached,F,131,498413,507166,Stagnant
+26/01/2025,Yorkshire,Detached,A,109,213344,203489,Normal
+16/02/2025,Yorkshire,Terraced,B,5,157289,159176,High Demand
+01/01/2025,Scotland,Terraced,E,135,220113,224476,Stagnant
+23/03/2025,London,Detached,C,96,1004616,975976,Normal
+16/01/2025,West Midlands,Flat,C,117,127670,121823,Normal
+16/03/2025,London,Semi-Detached,C,60,564375,556679,Normal
+28/02/2025,Wales,Terraced,F,121,195182,187347,Stagnant
+10/02/2025,Wales,Detached,E,138,277115,266487,Stagnant
+29/01/2025,Scotland,Semi-Detached,A,62,222437,216971,Normal
+01/04/2025,Scotland,Terraced,F,48,203188,199032,Normal
+06/02/2025,South East,Detached,F,65,545482,547116,Normal
+04/03/2025,North West,Detached,C,51,316961,322615,Normal
+27/01/2025,Wales,Semi-Detached,F,84,212381,214352,Normal
+07/01/2025,Wales,Flat,D,122,123470,119128,Stagnant
+03/01/2025,Yorkshire,Terraced,F,24,265600,256891,Normal
+16/02/2025,South East,Flat,B,51,175276,181915,Normal
+18/03/2025,Scotland,Flat,C,53,149399,150271,Normal
+09/02/2025,Yorkshire,Flat,B,18,158545,164410,Normal
+02/02/2025,North West,Semi-Detached,A,147,199887,197320,Stagnant
+26/03/2025,Scotland,Detached,C,5,283247,286487,High Demand
+30/01/2025,North West,Detached,F,121,309954,310687,Stagnant
+11/03/2025,Wales,Detached,A,58,233474,229251,Normal
+27/02/2025,North West,Detached,D,122,301772,300864,Stagnant
+14/01/2025,North West,Flat,D,7,99729,99753,High Demand
+01/04/2025,London,Flat,D,148,298343,289415,Stagnant
+13/02/2025,West Midlands,Detached,A,16,422477,414661,Normal
+24/03/2025,London,Flat,F,78,299758,308493,Normal
+28/03/2025,Wales,Semi-Detached,D,20,240230,250219,Normal
+18/03/2025,Scotland,Terraced,A,106,210982,208023,Normal
+05/03/2025,Wales,Flat,D,121,148670,145800,Stagnant
+09/03/2025,London,Flat,B,12,360704,349709,High Demand
+14/01/2025,Yorkshire,Detached,A,126,218324,222221,Stagnant
+19/03/2025,Wales,Terraced,D,96,222739,218799,Normal
+27/03/2025,London,Terraced,B,94,415699,435974,Normal
+19/03/2025,North West,Flat,E,140,133850,131517,Stagnant
+15/02/2025,West Midlands,Terraced,D,64,319132,315753,Normal
+27/03/2025,Wales,Semi-Detached,D,32,160237,161893,Normal
+12/02/2025,Yorkshire,Flat,A,105,122312,126002,Normal
+13/01/2025,Wales,Flat,B,45,137645,137225,Normal
+17/01/2025,Yorkshire,Detached,C,149,377077,374160,Stagnant
+31/03/2025,North West,Flat,D,145,152359,159911,Stagnant
+03/02/2025,London,Detached,B,50,686505,652900,Normal
+04/01/2025,London,Terraced,C,39,636113,661243,Normal
+24/02/2025,Wales,Semi-Detached,C,138,176349,170162,Stagnant
+02/01/2025,Wales,Detached,F,86,319211,328338,Normal
+24/03/2025,West Midlands,Detached,B,119,452090,457421,Normal
+25/01/2025,West Midlands,Terraced,D,51,287095,282554,Normal
+07/02/2025,London,Terraced,D,14,702008,728255,Normal
+03/03/2025,London,Flat,A,60,240442,228730,Normal
+14/02/2025,West Midlands,Detached,F,34,401109,390146,Normal
+02/01/2025,West Midlands,Detached,C,113,425259,428104,Normal
+21/03/2025,Wales,Detached,D,9,202956,199943,High Demand
+31/01/2025,Yorkshire,Detached,A,123,375091,379232,Stagnant
+04/01/2025,Yorkshire,Detached,F,37,260596,248195,Normal
+18/03/2025,London,Flat,B,122,379711,365148,Stagnant
+31/03/2025,Wales,Semi-Detached,A,69,238043,229167,Normal
+19/01/2025,North West,Detached,C,15,353882,342887,Normal
+13/02/2025,West Midlands,Flat,D,89,114127,113663,Normal
+26/02/2025,North West,Terraced,F,30,243485,249624,Normal
+04/03/2025,London,Semi-Detached,E,67,592354,616377,Normal
+16/02/2025,West Midlands,Terraced,D,90,314649,325202,Normal
+18/03/2025,Scotland,Detached,B,63,272908,264636,Normal
+18/03/2025,Scotland,Flat,B,31,110674,110022,Normal
+17/01/2025,Yorkshire,Semi-Detached,E,102,251730,244163,Normal
+20/03/2025,London,Terraced,E,109,544436,531613,Normal
+06/02/2025,Yorkshire,Detached,E,103,333103,333221,Normal
+18/03/2025,London,Semi-Detached,D,133,626258,62626,Stagnant
+06/02/2025,North West,Detached,B,59,398056,386837,Normal
+11/03/2025,London,Semi-Detached,E,10,609542,636080,High Demand
+07/03/2025,North West,Detached,E,99,322422,321330,Normal
+30/01/2025,North West,Flat,B,137,107665,107077,Stagnant
+30/01/2025,Wales,Semi-Detached,D,106,154178,146694,Normal
+19/01/2025,Wales,Flat,B,7,95343,92934,High Demand
+21/01/2025,Wales,Flat,B,27,96631,100170,Normal
+04/02/2025,Wales,Detached,B,57,305396,295154,Normal
+05/01/2025,Wales,Flat,D,87,138462,137287,Normal
+02/01/2025,Scotland,Detached,A,149,295091,280759,Stagnant
+01/02/2025,West Midlands,Semi-Detached,A,89,303669,303011,Normal
+24/01/2025,Scotland,Flat,E,82,161339,153612,Normal
+01/04/2025,Yorkshire,Terraced,A,114,261062,269405,Normal
+27/03/2025,Yorkshire,Terraced,C,5,244419,252359,High Demand
+11/02/2025,South East,Terraced,D,55,410461,422271,Normal
+09/02/2025,Yorkshire,Semi-Detached,C,8,211697,207111,High Demand
+24/02/2025,South East,Semi-Detached,D,117,300676,310816,Normal
+01/02/2025,Yorkshire,Terraced,A,36,205116,205998,Normal
+16/03/2025,South East,Semi-Detached,B,38,502983,50298,Normal
+21/01/2025,London,Semi-Detached,C,96,682808,691366,Normal
+17/02/2025,Wales,Detached,E,99,233053,221688,Normal
+03/01/2025,London,Terraced,B,76,563313,543200,Normal
+15/02/2025,North West,Detached,D,43,384078,393384,Normal
+23/03/2025,West Midlands,Detached,C,122,260928,254253,Stagnant
+20/01/2025,Scotland,Semi-Detached,D,7,192811,194701,High Demand
+19/02/2025,Scotland,Flat,E,127,150799,149067,Stagnant
+31/01/2025,South East,Flat,C,54,227373,235440,Normal
+16/03/2025,Yorkshire,Semi-Detached,D,16,162323,169666,Normal
+13/03/2025,South East,Semi-Detached,A,58,412921,428759,Normal
+31/01/2025,Wales,Detached,C,137,343789,335903,Stagnant
+09/01/2025,London,Terraced,B,61,606600,588048,Normal
+19/03/2025,West Midlands,Semi-Detached,E,149,210847,210308,Stagnant
+26/02/2025,Scotland,Semi-Detached,E,116,192414,182935,Normal
+12/01/2025,London,Terraced,C,51,557543,531105,Normal
+26/02/2025,Scotland,Detached,C,89,303783,30378,Normal
+02/03/2025,West Midlands,Flat,E,146,175764,176123,Stagnant
+11/03/2025,Yorkshire,Semi-Detached,B,70,165150,173318,Normal
+04/02/2025,South East,Detached,A,79,697151,676365,Normal
+02/02/2025,London,Detached,C,107,566032,552340,Normal
+25/03/2025,West Midlands,Semi-Detached,D,42,232988,223984,Normal
+20/02/2025,Scotland,Flat,A,54,88473,92167,Normal
+01/01/2025,West Midlands,Terraced,A,102,236518,243089,Normal
+04/03/2025,London,Detached,E,86,817648,844004,Normal
+09/01/2025,West Midlands,Semi-Detached,F,34,254799,265061,Normal
+09/01/2025,Yorkshire,Detached,D,83,243640,244247,Normal
+21/03/2025,South East,Flat,C,95,262924,261641,Normal
+19/02/2025,London,Detached,C,56,581941,572071,Normal
+30/01/2025,Scotland,Terraced,D,83,240000,242141,Normal
+19/01/2025,Yorkshire,Flat,B,34,166742,165980,Normal
+06/02/2025,North West,Flat,A,110,124541,123937,Normal
+05/03/2025,West Midlands,Detached,B,55,357917,373555,Normal
+16/03/2025,North West,Flat,E,-4,127828,134016,High Demand
+30/01/2025,South East,Terraced,A,137,281644,289994,Stagnant
+23/03/2025,Wales,Detached,A,33,262177,268909,Normal
+20/03/2025,South East,Semi-Detached,B,136,473971,482529,Stagnant
+07/02/2025,North West,Detached,C,142,340814,329433,Stagnant
+04/02/2025,Scotland,Detached,D,149,219462,209786,Stagnant
+21/03/2025,London,Detached,A,78,975098,993696,Normal
+27/02/2025,West Midlands,Semi-Detached,B,21,257787,263685,Normal
+31/01/2025,Yorkshire,Detached,F,88,369529,352788,Normal
+09/03/2025,Scotland,Detached,B,73,303951,316962,Normal
+01/04/2025,Scotland,Detached,F,38,300329,288050,Normal
+15/02/2025,South East,Detached,C,10,428104,418938,High Demand
+14/01/2025,North West,Semi-Detached,C,57,183430,186593,Normal
+04/01/2025,North West,Detached,A,130,414517,400833,Stagnant
+06/03/2025,North West,Terraced,B,47,191988,183453,Normal
+23/03/2025,Wales,Flat,D,119,155843,153211,Normal
+21/03/2025,Yorkshire,Flat,E,115,133647,137201,Normal
+04/03/2025,North West,Detached,B,84,250615,248451,Normal
+19/02/2025,Wales,Terraced,E,99,152165,154492,Normal
+22/01/2025,Wales,Flat,B,122,99352,100143,Stagnant
+13/02/2025,London,Flat,F,148,434384,43438,Stagnant
+14/01/2025,West Midlands,Terraced,C,12,239779,251493,High Demand
+30/01/2025,North West,Semi-Detached,E,136,215361,205485,Stagnant
+12/03/2025,Wales,Terraced,A,108,178368,186712,Normal
+19/03/2025,West Midlands,Detached,B,136,278107,279493,Stagnant
+28/02/2025,Yorkshire,Detached,F,29,303638,317701,Normal
+31/03/2025,Scotland,Detached,E,100,224540,215890,Normal
+26/01/2025,Wales,Detached,C,97,339285,338959,Normal
+04/03/2025,North West,Semi-Detached,C,65,211856,204854,Normal
+01/02/2025,Wales,Detached,E,126,260279,248592,Stagnant
+02/03/2025,London,Terraced,B,55,565902,572553,Normal
+08/03/2025,Scotland,Detached,C,25,279944,271764,Normal
+16/03/2025,West Midlands,Terraced,C,9,329208,332095,High Demand
+14/03/2025,West Midlands,Semi-Detached,F,96,259989,249911,Normal
+28/03/2025,North West,Semi-Detached,F,65,172348,169453,Normal
+17/02/2025,Scotland,Semi-Detached,C,-15,220467,226676,High Demand
+23/03/2025,West Midlands,Terraced,D,74,199344,198089,Normal
+10/03/2025,South East,Terraced,C,5,287580,291253,High Demand
+14/02/2025,North West,Semi-Detached,B,137,295904,300267,Stagnant
+14/02/2025,South East,Semi-Detached,C,16,469517,485657,Normal
+01/03/2025,North West,Flat,D,94,178329,175207,Normal
+24/01/2025,London,Flat,B,50,340354,346729,Normal
+26/01/2025,Scotland,Detached,E,38,295490,309131,Normal
+13/02/2025,Wales,Detached,A,82,224870,230047,Normal
+25/01/2025,North West,Flat,F,49,116740,116622,Normal
+25/01/2025,Wales,Semi-Detached,F,77,242722,245895,Normal
+10/03/2025,West Midlands,Terraced,F,30,230853,236386,Normal
+17/01/2025,Wales,Semi-Detached,B,51,241285,243994,Normal
+25/03/2025,West Midlands,Flat,E,125,171113,162843,Stagnant
+12/01/2025,North West,Detached,C,60,258726,250829,Normal
+22/01/2025,Wales,Terraced,C,98,202162,208439,Normal
+12/01/2025,North West,Semi-Detached,B,111,254834,249041,Normal
+18/01/2025,South East,Flat,E,67,202550,207241,Normal
+12/01/2025,Scotland,Terraced,D,52,248667,245487,Normal
+08/02/2025,Wales,Semi-Detached,B,65,206741,207194,Normal
+06/02/2025,Yorkshire,Terraced,E,85,173977,166461,Normal
+09/03/2025,Yorkshire,Semi-Detached,D,30,229537,222220,Normal
+17/03/2025,London,Terraced,D,40,749900,784185,Normal
+09/03/2025,North West,Semi-Detached,C,5,181073,188137,High Demand
+28/01/2025,South East,Semi-Detached,A,12,480105,487416,High Demand
+03/01/2025,West Midlands,Flat,D,117,124755,124252,Normal
+03/02/2025,Wales,Semi-Detached,E,103,235843,239988,Normal
+01/03/2025,London,Terraced,C,51,657102,664896,System_Error_Null
+19/02/2025,Yorkshire,Detached,E,131,268751,270593,Stagnant
+26/02/2025,Wales,Semi-Detached,C,60,179913,171982,Normal
+11/01/2025,South East,Flat,B,18,284501,288279,Normal
+13/03/2025,South East,Semi-Detached,A,32,393054,403624,Normal
+18/01/2025,North West,Semi-Detached,E,82,262315,275275,Normal
+12/01/2025,North West,Flat,C,134,108431,103129,Stagnant
+19/03/2025,Wales,Flat,D,113,146663,14666,Normal
+12/02/2025,West Midlands,Detached,D,18,399667,402536,Normal
+17/02/2025,North West,Semi-Detached,B,60,286972,285079,Normal
+24/01/2025,Yorkshire,Semi-Detached,D,119,169606,163289,Normal
+18/01/2025,North West,Terraced,E,11,243022,240813,High Demand
+06/02/2025,South East,Detached,C,7,597498,588797,High Demand
+13/02/2025,West Midlands,Semi-Detached,C,115,230433,225890,Normal
+27/01/2025,Wales,Semi-Detached,D,111,196162,200691,Normal
+15/03/2025,Scotland,Terraced,B,22,148786,151772,Normal
+02/02/2025,West Midlands,Detached,C,42,407207,410832,Normal
+28/01/2025,Yorkshire,Terraced,D,119,225060,234932,Normal
+26/01/2025,Scotland,Detached,B,19,211786,208606,Normal
+08/02/2025,West Midlands,Terraced,D,123,280836,273641,Stagnant
+26/01/2025,South East,Flat,F,32,236617,240306,Normal
+05/02/2025,Yorkshire,Flat,F,43,93950,91120,Normal
+02/03/2025,London,Semi-Detached,B,21,739363,725685,Normal
+17/01/2025,West Midlands,Detached,E,90,451029,438607,Normal
+07/03/2025,North West,Semi-Detached,A,130,231806,221819,Stagnant
+22/01/2025,Scotland,Semi-Detached,F,48,155803,160905,Normal
+21/01/2025,North West,Detached,A,29,371906,362777,Normal
+09/02/2025,North West,Detached,C,149,320418,319554,Stagnant
+30/03/2025,Yorkshire,Flat,D,17,115335,110068,Normal
+04/02/2025,London,Detached,E,29,800795,816758,Normal
+19/03/2025,West Midlands,Semi-Detached,F,72,256456,252111,Normal
+08/03/2025,London,Semi-Detached,D,142,596949,611559,Stagnant
+05/01/2025,South East,Semi-Detached,B,71,388100,384700,Normal
+07/02/2025,Scotland,Semi-Detached,D,113,220325,213622,Normal
+22/01/2025,South East,Detached,B,115,707126,708058,Normal
+24/03/2025,London,Detached,C,115,737511,710261,Normal
+18/01/2025,Yorkshire,Terraced,B,38,248520,247043,Normal
+19/03/2025,Wales,Flat,B,115,149742,147007,Normal
+15/02/2025,West Midlands,Semi-Detached,F,12,246221,256364,System_Error_Null
+13/03/2025,Wales,Flat,A,117,116594,111475,Normal
+20/03/2025,West Midlands,Terraced,C,87,268726,273940,Normal
+10/02/2025,Scotland,Terraced,D,46,218517,211585,Normal
+12/01/2025,South East,Detached,C,105,668660,656560,Normal
+17/01/2025,South East,Terraced,E,10,396738,393387,High Demand
+29/03/2025,Scotland,Detached,D,30,377316,392711,Normal
+30/03/2025,Wales,Detached,F,68,206199,200891,Normal
+09/02/2025,Scotland,Semi-Detached,F,63,144399,138498,Normal
+28/02/2025,West Midlands,Semi-Detached,A,113,274591,269612,Normal
+20/01/2025,West Midlands,Flat,E,125,133175,13318,Stagnant
+12/02/2025,Wales,Semi-Detached,F,37,169447,163154,Normal
+06/03/2025,London,Flat,F,-2,305499,307755,High Demand
+30/03/2025,London,Flat,A,74,293770,280871,Normal
+02/01/2025,Wales,Terraced,E,116,143772,137028,Normal
+09/02/2025,West Midlands,Semi-Detached,C,8,325616,332598,High Demand
+25/03/2025,South East,Semi-Detached,F,98,334083,329461,Normal
+21/01/2025,South East,Semi-Detached,D,79,459837,442611,System_Error_Null
+25/02/2025,West Midlands,Flat,A,66,176064,171726,Normal
+10/01/2025,North West,Detached,C,98,406134,411905,Normal
+04/03/2025,Wales,Detached,A,99,201239,196722,Normal
+09/02/2025,Wales,Terraced,A,59,246826,246691,Normal
+25/02/2025,Yorkshire,Flat,D,141,133273,128231,Stagnant
+12/02/2025,London,Semi-Detached,A,135,621390,626864,Stagnant
+21/01/2025,Wales,Flat,B,35,131369,128952,Normal
+15/01/2025,London,Flat,B,44,412158,417391,Normal
+01/03/2025,North West,Flat,C,40,124006,127831,Normal
+01/02/2025,London,Semi-Detached,F,10,656568,663898,High Demand
+07/01/2025,Yorkshire,Detached,F,70,311221,304864,Normal
+20/03/2025,London,Detached,A,79,948763,925589,Normal
+03/03/2025,Yorkshire,Detached,C,8,397240,390384,High Demand
+22/01/2025,London,Terraced,F,83,470228,454457,Normal
+21/01/2025,South East,Semi-Detached,D,138,523689,506992,Stagnant
+08/03/2025,Scotland,Detached,A,122,217443,223764,Stagnant
+30/01/2025,West Midlands,Terraced,F,117,176357,174324,Normal
+21/03/2025,West Midlands,Terraced,B,98,182801,181631,Normal
+10/02/2025,Yorkshire,Terraced,D,66,197457,199314,Normal
+02/03/2025,North West,Semi-Detached,D,83,248607,250836,Normal
+06/02/2025,South East,Flat,F,-15,178147,170440,High Demand
+18/03/2025,West Midlands,Detached,E,30,247622,255831,Normal
+06/03/2025,North West,Terraced,E,48,291193,281797,Normal
+03/01/2025,Scotland,Detached,C,137,346588,354319,Stagnant
+13/01/2025,South East,Flat,E,-2,286950,294774,High Demand
+13/01/2025,Yorkshire,Detached,F,122,377480,385592,Stagnant
+22/01/2025,West Midlands,Flat,A,72,170283,171628,Normal
+01/03/2025,Yorkshire,Flat,E,23,99531,94700,Normal
+03/01/2025,Wales,Terraced,E,24,188890,186252,Normal
+26/01/2025,Wales,Terraced,D,117,228586,230982,Normal
+13/03/2025,North West,Detached,E,144,278946,275806,Stagnant
+06/01/2025,North West,Detached,C,51,358732,371771,Normal
+05/02/2025,South East,Detached,E,5,400403,392747,High Demand
+07/03/2025,South East,Detached,D,94,497005,486744,Normal
+01/02/2025,North West,Terraced,F,146,236878,231335,Stagnant
+09/01/2025,South East,Terraced,D,68,434862,427590,Normal
+21/01/2025,West Midlands,Flat,C,42,158919,159831,Normal
+23/02/2025,West Midlands,Detached,D,41,396836,405051,Normal
+11/01/2025,London,Terraced,B,130,402131,408668,Stagnant
+25/03/2025,North West,Semi-Detached,E,143,174132,179490,Stagnant
+09/02/2025,Wales,Terraced,D,104,246446,255956,Normal
+11/01/2025,Wales,Detached,F,81,312920,31292,Normal
+07/02/2025,Wales,Detached,B,7,215368,205007,High Demand
+25/03/2025,Scotland,Detached,A,138,350142,358402,Stagnant
+03/03/2025,West Midlands,Semi-Detached,F,14,213304,207084,Normal
+13/01/2025,Scotland,Semi-Detached,C,9,204261,196763,High Demand
+10/03/2025,Scotland,Terraced,B,142,162295,164542,Stagnant
+02/02/2025,South East,Terraced,E,134,453977,445794,Stagnant
+12/02/2025,Wales,Flat,A,17,133014,127123,Normal
+02/02/2025,Yorkshire,Flat,B,134,108047,104131,Stagnant
+07/03/2025,South East,Detached,C,88,688146,653803,Normal
+04/03/2025,Scotland,Detached,C,69,272390,283374,Normal
+31/03/2025,South East,Semi-Detached,C,67,351666,334949,Normal
+09/03/2025,North West,Flat,C,105,108796,105635,Normal
+07/01/2025,London,Detached,A,77,690422,684641,Normal
+20/02/2025,West Midlands,Terraced,D,21,179392,176819,Normal
+20/01/2025,Wales,Detached,C,13,296029,308217,High Demand
+11/02/2025,Yorkshire,Flat,A,147,158410,151128,Stagnant
+05/03/2025,Wales,Terraced,F,42,207250,207503,Normal
+21/02/2025,London,Terraced,B,98,476746,485350,Normal
+31/03/2025,Wales,Terraced,D,99,144124,14412,Normal
+05/01/2025,West Midlands,Semi-Detached,E,53,209053,211569,Normal
+22/02/2025,South East,Flat,D,73,229170,236131,Normal
+28/03/2025,West Midlands,Detached,D,66,410172,393098,Normal
+19/02/2025,Wales,Detached,D,82,228215,225612,Normal
+14/02/2025,West Midlands,Terraced,D,121,286848,283232,Stagnant
+29/01/2025,Yorkshire,Flat,D,124,160381,166577,Stagnant
+18/03/2025,Scotland,Semi-Detached,A,141,201197,194183,Stagnant
+17/03/2025,Yorkshire,Terraced,A,80,261250,252156,Normal
+03/02/2025,Wales,Terraced,F,39,207946,204380,Normal
+08/01/2025,Wales,Terraced,F,5,218044,208329,High Demand
+28/03/2025,Scotland,Terraced,D,44,210311,203633,Normal
+27/02/2025,Scotland,Terraced,A,68,202360,211774,Normal
+30/03/2025,South East,Detached,A,64,472486,469093,Normal
+14/02/2025,Wales,Flat,A,68,106285,107688,Normal
+23/03/2025,North West,Semi-Detached,E,97,200596,205132,Normal
+05/01/2025,Scotland,Semi-Detached,E,76,214974,212114,Normal
+01/02/2025,Yorkshire,Flat,E,15,100772,97217,Normal
+02/01/2025,Wales,Terraced,B,109,252307,244904,Normal
+23/02/2025,London,Terraced,B,18,652229,640050,Normal
+08/01/2025,North West,Semi-Detached,D,64,216202,219144,Normal
+24/02/2025,London,Terraced,C,34,455518,450885,Normal
+04/02/2025,Wales,Detached,B,39,347262,330135,Normal
+08/01/2025,South East,Flat,C,9,289095,289772,High Demand
+28/03/2025,Wales,Detached,F,87,319775,31978,Normal
+30/01/2025,South East,Terraced,D,127,346529,357343,Stagnant
+08/01/2025,Wales,Semi-Detached,B,82,189300,195456,Normal
+07/03/2025,Yorkshire,Terraced,A,66,165666,170554,Normal
+03/01/2025,London,Flat,D,136,279698,274768,Stagnant
+06/02/2025,North West,Semi-Detached,F,93,269622,276773,Normal
+10/01/2025,West Midlands,Flat,B,46,171670,165544,Normal
+24/02/2025,North West,Flat,D,93,145853,148153,Normal
+20/03/2025,North West,Semi-Detached,D,44,285402,289442,Normal
+15/01/2025,London,Detached,B,76,845801,805673,Normal
+17/03/2025,Wales,Terraced,F,43,197204,202882,Normal
+09/03/2025,South East,Flat,A,108,218034,226827,Normal
+14/01/2025,West Midlands,Flat,B,18,192497,188020,Normal
+05/01/2025,South East,Terraced,A,36,300265,309645,Normal
+01/01/2025,Scotland,Semi-Detached,E,129,261292,26129,Stagnant
+11/01/2025,West Midlands,Detached,D,101,424640,428885,System_Error_Null
+13/03/2025,London,Detached,C,27,623666,622771,Normal
+29/01/2025,Yorkshire,Flat,F,67,136286,136912,Normal
+19/03/2025,Wales,Flat,C,147,147691,153986,Stagnant
+25/02/2025,Scotland,Flat,C,149,129629,134442,Stagnant
+14/03/2025,Yorkshire,Terraced,D,57,272658,280431,Normal
+25/03/2025,South East,Semi-Detached,D,108,511031,499466,Normal
+14/01/2025,Wales,Detached,E,108,268439,279494,Normal
+20/03/2025,North West,Detached,B,43,297953,285961,Normal
+22/01/2025,South East,Terraced,A,138,509399,527397,Stagnant
+03/01/2025,West Midlands,Flat,E,71,167983,165096,Normal
+31/01/2025,Yorkshire,Terraced,C,139,167431,159960,Stagnant
+26/01/2025,Yorkshire,Terraced,E,46,157625,160294,Normal
+22/03/2025,West Midlands,Flat,F,19,157772,153532,System_Error_Null
+08/01/2025,West Midlands,Terraced,F,115,319246,311060,Normal
+14/02/2025,London,Flat,A,37,417292,409199,Normal
+10/02/2025,Wales,Semi-Detached,D,42,222791,213071,Normal
+13/02/2025,South East,Detached,D,101,439717,425519,Normal
+19/03/2025,Wales,Semi-Detached,E,37,171143,162674,Normal
+31/03/2025,London,Semi-Detached,B,90,706429,702572,Normal
+18/03/2025,London,Detached,E,70,649576,622570,Normal
+04/01/2025,Yorkshire,Detached,A,14,264645,269479,System_Error_Null
+01/03/2025,London,Detached,A,9,623504,607020,High Demand
+03/03/2025,South East,Terraced,C,127,445647,465414,Stagnant
+28/01/2025,Scotland,Semi-Detached,E,78,262942,272704,Normal
+21/01/2025,Yorkshire,Flat,D,-17,112664,110291,High Demand
+15/03/2025,London,Flat,F,122,339835,349460,Stagnant
+05/01/2025,Scotland,Semi-Detached,B,42,223927,230717,Normal
+04/02/2025,London,Terraced,D,145,749813,786296,Stagnant
+15/02/2025,Scotland,Detached,C,51,220088,222241,Normal
+01/01/2025,Scotland,Flat,B,113,124092,118904,Normal
+11/03/2025,North West,Detached,D,19,299484,303881,Normal
+23/01/2025,South East,Terraced,A,140,492126,498277,Stagnant
+12/03/2025,Yorkshire,Detached,B,9,301425,305595,High Demand
+09/01/2025,Yorkshire,Detached,F,51,233464,228962,Normal
+08/01/2025,Yorkshire,Semi-Detached,A,72,236378,244880,Normal
+15/02/2025,South East,Terraced,A,80,468841,490383,Normal
+03/03/2025,Yorkshire,Flat,E,134,91430,88849,Stagnant
+20/02/2025,North West,Detached,B,99,392356,376196,Normal
+07/02/2025,Scotland,Terraced,D,119,167439,162324,Normal
+18/03/2025,London,Semi-Detached,F,40,593224,612240,Normal
+22/03/2025,Scotland,Terraced,A,30,196390,199860,Normal
+26/03/2025,London,Flat,D,47,391127,396448,Normal
+05/02/2025,Wales,Terraced,F,31,185467,183646,Normal
+01/03/2025,Scotland,Detached,E,73,355026,357789,Normal
+27/03/2025,London,Terraced,E,15,655674,643077,Normal
+08/03/2025,South East,Semi-Detached,B,78,438690,437690,Normal
+22/03/2025,Wales,Detached,F,108,332555,33256,Normal
+03/02/2025,West Midlands,Flat,E,42,175272,183707,Normal
+11/03/2025,Wales,Detached,A,138,202163,210907,Stagnant
+10/03/2025,South East,Semi-Detached,C,27,376710,37671,Normal
+12/01/2025,West Midlands,Semi-Detached,B,51,319344,316222,Normal
+21/02/2025,South East,Flat,D,94,186481,185899,Normal
+14/02/2025,North West,Terraced,E,50,263194,268606,Normal
+21/01/2025,North West,Flat,F,111,177866,185375,Normal
+23/02/2025,West Midlands,Flat,D,144,110423,106470,Stagnant
+25/01/2025,South East,Detached,C,145,625993,613738,Stagnant
+05/01/2025,South East,Flat,F,108,236819,228275,Normal
+03/01/2025,Wales,Semi-Detached,F,115,210949,213312,Normal
+17/02/2025,North West,Terraced,C,108,171948,168617,Normal
+12/03/2025,South East,Terraced,B,64,290537,285484,Normal
+03/03/2025,West Midlands,Semi-Detached,A,-2,278697,266739,High Demand
+08/02/2025,Wales,Detached,D,72,337198,332133,Normal
+22/02/2025,Yorkshire,Flat,D,137,153605,159173,System_Error_Null
+10/02/2025,Yorkshire,Detached,C,124,314057,305674,Stagnant
+01/04/2025,Yorkshire,Detached,F,41,231395,235912,Normal
+14/03/2025,London,Terraced,A,76,640816,649122,Normal
+11/01/2025,Scotland,Semi-Detached,D,131,174478,180820,Stagnant
+27/03/2025,Scotland,Flat,C,110,155277,149567,Normal
+29/01/2025,Yorkshire,Terraced,C,96,263489,276073,Normal
+23/01/2025,London,Flat,D,35,388970,392184,Normal
+07/03/2025,Wales,Semi-Detached,D,126,256234,268929,Stagnant
+18/03/2025,North West,Flat,F,141,98639,102699,Stagnant
+05/01/2025,Scotland,Semi-Detached,E,55,236761,230168,Normal
+06/01/2025,Yorkshire,Terraced,E,33,195922,187227,Normal
+19/03/2025,South East,Semi-Detached,D,44,501986,489720,Normal
+30/03/2025,Wales,Terraced,F,-19,172668,173144,High Demand
+23/01/2025,North West,Semi-Detached,F,15,261480,252893,Normal
+02/02/2025,North West,Terraced,E,5,282871,273464,High Demand
+28/01/2025,South East,Terraced,C,50,290206,289120,Normal
+25/01/2025,Scotland,Flat,A,105,116462,111026,Normal
+21/03/2025,Yorkshire,Detached,E,94,354742,341329,Normal
+05/03/2025,West Midlands,Terraced,C,114,246058,243987,Normal
+11/02/2025,South East,Semi-Detached,E,61,345477,330384,Normal
+22/03/2025,London,Flat,B,5,286159,283205,High Demand
+06/03/2025,Scotland,Semi-Detached,D,67,160571,160154,Normal
+20/03/2025,North West,Semi-Detached,A,59,279998,278634,Normal
+01/01/2025,Wales,Detached,C,119,294673,305552,Normal
+01/03/2025,Wales,Flat,F,147,89614,89884,Stagnant
+11/02/2025,Scotland,Detached,D,57,269087,268226,Normal
+26/02/2025,London,Flat,A,141,317224,314392,Stagnant
+26/01/2025,London,Semi-Detached,B,61,463609,478334,Normal
+07/01/2025,Scotland,Flat,F,121,119324,124038,Stagnant
+02/02/2025,London,Detached,F,39,722729,748259,Normal
+04/01/2025,Scotland,Terraced,F,67,187067,190314,Normal
+24/03/2025,North West,Detached,D,29,368849,355473,Normal
+25/02/2025,North West,Detached,A,94,267760,261785,Normal
+24/02/2025,North West,Flat,C,79,149916,143111,Normal
+08/01/2025,North West,Terraced,E,42,239891,250226,Normal
+20/02/2025,West Midlands,Semi-Detached,D,134,263486,267723,Stagnant
+19/01/2025,North West,Detached,C,139,353949,362669,Stagnant
+15/01/2025,Wales,Semi-Detached,A,95,207177,203273,Normal
+23/02/2025,West Midlands,Detached,B,21,435967,451037,Normal
+28/02/2025,Scotland,Detached,B,132,320772,313061,Stagnant
+12/01/2025,South East,Terraced,F,112,414006,393374,Normal
+09/03/2025,Wales,Terraced,C,29,241646,238660,Normal
+07/03/2025,London,Terraced,A,92,612151,616483,Normal
+25/03/2025,North West,Terraced,D,33,200760,200333,Normal
+08/02/2025,West Midlands,Semi-Detached,C,67,207893,215420,Normal
+28/01/2025,West Midlands,Detached,E,118,279242,268223,Normal
+05/01/2025,North West,Terraced,C,53,285924,287463,Normal
+12/03/2025,North West,Terraced,D,85,259419,259756,Normal
+18/01/2025,Scotland,Semi-Detached,A,88,262110,256380,Normal
+16/01/2025,North West,Semi-Detached,C,109,244461,252338,Normal
+22/01/2025,Yorkshire,Terraced,D,122,214962,220398,Stagnant
+31/01/2025,Scotland,Flat,E,90,90915,93032,Normal
+31/03/2025,Scotland,Detached,D,67,320078,332119,Normal
+16/02/2025,Yorkshire,Flat,F,108,137660,140727,System_Error_Null
+13/02/2025,South East,Flat,F,53,313561,305152,Normal
+08/02/2025,South East,Semi-Detached,D,75,338594,345554,Normal
+21/01/2025,West Midlands,Flat,B,5,154640,151666,High Demand
+04/03/2025,Yorkshire,Semi-Detached,B,145,238577,232426,Stagnant
+28/02/2025,South East,Terraced,B,127,437925,419226,Stagnant
+01/04/2025,Wales,Flat,E,66,125255,128312,Normal
+23/03/2025,Scotland,Semi-Detached,A,36,241893,246997,Normal
+28/02/2025,North West,Flat,A,33,113218,110212,Normal
+05/01/2025,Yorkshire,Flat,E,53,149105,152823,Normal
+24/01/2025,North West,Terraced,B,34,246763,257074,Normal
+27/01/2025,South East,Flat,D,148,299723,287975,Stagnant
+09/02/2025,West Midlands,Detached,C,23,429055,417584,Normal
+26/01/2025,London,Flat,D,-9,306181,313843,High Demand
+23/01/2025,South East,Flat,A,5,208607,203903,High Demand
+06/01/2025,Scotland,Terraced,D,82,267688,271025,Normal
+15/02/2025,Wales,Flat,F,119,122754,117613,Normal
+08/03/2025,Scotland,Terraced,D,117,258209,256975,Normal
+18/02/2025,Scotland,Semi-Detached,B,118,164649,168586,Normal
+06/03/2025,Wales,Terraced,E,67,218745,222825,Normal
+22/03/2025,Scotland,Detached,B,136,344459,355312,Stagnant
+27/02/2025,South East,Terraced,B,133,512112,531442,Stagnant
+17/01/2025,Yorkshire,Semi-Detached,C,12,196866,202244,High Demand
+10/03/2025,Scotland,Terraced,B,59,235348,239386,Normal
+07/01/2025,Yorkshire,Detached,E,107,313127,31313,Normal
+15/02/2025,London,Flat,F,135,252732,253616,Stagnant
+14/02/2025,London,Semi-Detached,A,36,641500,611843,Normal
+22/01/2025,Scotland,Detached,E,14,323333,333294,Normal
+26/01/2025,Wales,Flat,B,114,152400,149667,Normal
+12/02/2025,London,Semi-Detached,C,128,574059,577643,Stagnant
+15/01/2025,West Midlands,Flat,C,91,126875,124077,Normal
+12/03/2025,Yorkshire,Flat,F,59,94756,97433,Normal
+05/02/2025,Yorkshire,Terraced,C,36,207280,215292,Normal
+22/03/2025,Wales,Flat,A,139,106191,105115,Stagnant
+01/01/2025,Yorkshire,Semi-Detached,F,97,253225,262415,Normal
+10/03/2025,South East,Flat,E,12,220077,214951,High Demand
+11/03/2025,South East,Semi-Detached,B,69,512522,514299,Normal
+24/03/2025,North West,Semi-Detached,D,61,294723,305297,Normal
+31/03/2025,Wales,Semi-Detached,F,71,216061,212299,Normal
+01/01/2025,Yorkshire,Semi-Detached,D,76,275512,288021,Normal
+10/01/2025,West Midlands,Flat,A,58,175903,169252,Normal
+17/01/2025,London,Terraced,B,71,591401,562912,Normal
+25/01/2025,South East,Detached,F,55,453846,472187,Normal
+24/02/2025,Scotland,Semi-Detached,B,101,201783,193079,Normal
+09/03/2025,London,Detached,E,96,834828,875893,Normal
+17/01/2025,West Midlands,Terraced,E,12,309050,323001,High Demand
+11/01/2025,South East,Terraced,E,39,397927,383483,Normal
+20/02/2025,Scotland,Terraced,C,100,257107,258073,Normal
+09/02/2025,North West,Flat,A,92,152645,147836,Normal
+01/01/2025,West Midlands,Semi-Detached,D,82,197098,195682,Normal
+06/03/2025,London,Terraced,A,36,748243,715427,Normal
+07/03/2025,South East,Detached,D,124,572841,557026,Stagnant
+18/01/2025,Scotland,Detached,C,50,270724,267022,Normal
+04/02/2025,Wales,Flat,A,148,132445,131632,Stagnant
+13/01/2025,West Midlands,Flat,E,146,115662,121185,Stagnant
+14/03/2025,North West,Terraced,D,59,249115,256785,Normal
+10/01/2025,North West,Terraced,A,11,229753,235208,High Demand
+06/03/2025,North West,Terraced,E,78,216934,217738,Normal
+15/02/2025,Wales,Flat,B,11,154047,159285,High Demand
+11/03/2025,South East,Detached,A,89,571231,562053,Normal
+20/01/2025,London,Detached,F,116,667368,681309,Normal
+25/01/2025,Scotland,Semi-Detached,E,129,201829,211795,Stagnant
+20/03/2025,South East,Detached,E,40,707350,694238,Normal
+15/01/2025,Wales,Semi-Detached,F,33,161572,164383,Normal
+03/03/2025,Scotland,Terraced,A,86,170959,176845,Normal
+12/03/2025,Wales,Flat,D,6,84958,88490,High Demand
+14/03/2025,North West,Detached,A,133,226781,231724,Stagnant
+24/02/2025,Yorkshire,Detached,E,51,367233,359286,Normal
+02/01/2025,Wales,Flat,F,15,137811,135417,Normal
+08/03/2025,North West,Semi-Detached,C,134,209706,199656,Stagnant
+27/02/2025,London,Terraced,D,123,644409,661221,Stagnant
+14/01/2025,North West,Detached,D,144,301460,287676,Stagnant
+27/03/2025,Scotland,Semi-Detached,B,24,264065,273694,Normal
+08/03/2025,London,Detached,D,9,1033856,994431,High Demand
+04/03/2025,West Midlands,Detached,E,41,331086,320223,Normal
+04/02/2025,South East,Terraced,C,141,489284,488136,Stagnant
+26/03/2025,West Midlands,Flat,B,57,177033,181245,Normal
+13/02/2025,North West,Terraced,F,103,203400,196057,Normal
+25/03/2025,Wales,Terraced,C,90,168425,167416,Normal
+01/04/2025,North West,Terraced,E,112,224153,223768,Normal
+04/01/2025,North West,Flat,C,28,161633,156983,Normal
+06/01/2025,Yorkshire,Detached,A,85,391583,376529,Normal
+25/01/2025,Yorkshire,Terraced,D,124,253556,262086,Stagnant
+20/01/2025,Yorkshire,Semi-Detached,E,63,265743,265808,Normal
+07/02/2025,Yorkshire,Terraced,B,132,232208,220931,Stagnant
+13/01/2025,South East,Detached,E,118,678545,699104,Normal
+01/01/2025,Scotland,Flat,D,119,145702,152707,Normal
+22/02/2025,North West,Semi-Detached,B,18,212778,215032,Normal
+02/03/2025,South East,Detached,D,13,581333,581548,High Demand
+31/03/2025,South East,Detached,B,44,668030,693310,Normal
+29/03/2025,Yorkshire,Flat,D,29,94875,99169,Normal
+26/01/2025,West Midlands,Flat,C,107,180267,184855,Normal
+14/01/2025,North West,Flat,E,26,110943,110337,Normal
+20/03/2025,Yorkshire,Detached,B,8,308634,311480,High Demand
+12/03/2025,West Midlands,Detached,C,33,420664,429117,Normal
+15/03/2025,North West,Detached,C,113,273749,265380,Normal
+18/02/2025,Wales,Flat,B,102,102067,101528,System_Error_Null
+06/03/2025,Wales,Flat,F,41,113603,117350,Normal
+26/01/2025,North West,Semi-Detached,B,79,285250,289664,Normal
+01/04/2025,Wales,Semi-Detached,C,74,140054,138811,Normal
+03/02/2025,South East,Flat,E,132,300503,305412,Stagnant
+19/01/2025,Scotland,Terraced,D,89,163380,157142,Normal
+14/01/2025,South East,Flat,E,46,313543,310454,Normal
+08/03/2025,South East,Semi-Detached,C,104,513938,529002,Normal
+26/01/2025,London,Terraced,B,45,573136,557118,Normal
+18/03/2025,Yorkshire,Terraced,E,38,220192,213277,Normal
+16/03/2025,South East,Terraced,C,-6,397980,415921,High Demand
+25/03/2025,Wales,Semi-Detached,F,126,217842,211522,Stagnant
+15/01/2025,Wales,Terraced,E,80,151113,147501,Normal
+13/03/2025,West Midlands,Flat,C,91,108614,113715,Normal
+02/02/2025,Wales,Terraced,E,121,147069,150520,Stagnant
+14/02/2025,North West,Flat,B,110,133327,135988,Normal
+15/02/2025,Yorkshire,Semi-Detached,B,90,188648,195306,Normal
+16/01/2025,Yorkshire,Flat,B,31,140839,135428,Normal
+01/02/2025,Scotland,Detached,C,61,376667,384425,Normal
+14/02/2025,London,Semi-Detached,D,35,535213,535411,Normal
+22/02/2025,London,Flat,E,138,360507,372373,Stagnant
+17/03/2025,North West,Detached,F,102,305458,305707,Normal
+24/03/2025,Yorkshire,Detached,B,16,370562,375018,Normal
+27/02/2025,London,Flat,C,57,429470,428514,Normal
+14/03/2025,London,Terraced,A,142,707074,705530,Stagnant
+14/03/2025,Scotland,Terraced,F,149,266771,273920,Stagnant
+08/01/2025,Scotland,Semi-Detached,C,-7,147467,149363,High Demand
+30/01/2025,Scotland,Semi-Detached,D,50,249817,253146,Normal
+15/02/2025,Wales,Terraced,D,68,232092,230938,Normal
+18/01/2025,Yorkshire,Flat,D,134,109450,109790,Stagnant
+06/01/2025,South East,Semi-Detached,D,58,514298,526936,Normal
+06/02/2025,Yorkshire,Detached,A,111,240391,24039,Normal
+13/01/2025,London,Terraced,F,55,637842,650380,Normal
+01/03/2025,Scotland,Semi-Detached,B,40,172336,179644,Normal
+31/01/2025,Wales,Detached,E,119,269982,278630,Normal
+24/02/2025,South East,Semi-Detached,F,30,456194,459016,Normal
+25/03/2025,London,Semi-Detached,F,33,597164,607399,Normal
+14/03/2025,London,Semi-Detached,B,15,549626,573057,Normal
+08/03/2025,North West,Terraced,F,44,205687,208139,Normal
+19/03/2025,West Midlands,Terraced,F,15,305308,315224,Normal
+21/02/2025,Wales,Terraced,B,117,157617,160593,Normal
+16/02/2025,West Midlands,Terraced,F,43,242236,243494,Normal
+18/02/2025,North West,Detached,F,58,401136,390781,Normal
+26/01/2025,Scotland,Semi-Detached,D,102,250577,248723,Normal
+16/02/2025,Yorkshire,Flat,D,59,123195,128958,Normal
+20/03/2025,Yorkshire,Detached,D,115,354891,360490,Normal
+04/01/2025,Wales,Terraced,D,73,240837,242388,Normal
+28/02/2025,Scotland,Flat,E,60,153600,160250,Normal
+21/03/2025,North West,Terraced,B,37,236231,238274,Normal
+18/02/2025,South East,Semi-Detached,B,40,330093,330954,Normal
+20/01/2025,West Midlands,Terraced,A,85,215318,220901,Normal
+11/01/2025,North West,Flat,D,113,120838,123408,Normal
+09/01/2025,Scotland,Semi-Detached,F,77,218819,212105,Normal
+22/03/2025,Scotland,Semi-Detached,F,44,148134,147709,Normal
+08/03/2025,North West,Detached,C,21,348664,347706,Normal
+23/02/2025,London,Flat,A,133,316514,312660,Stagnant
+16/01/2025,South East,Terraced,E,65,352334,352944,Normal
+13/01/2025,Wales,Semi-Detached,D,108,247738,245586,Normal
+10/02/2025,South East,Detached,E,46,549781,533251,Normal
+11/02/2025,Wales,Semi-Detached,A,29,151644,150315,Normal
+18/01/2025,North West,Detached,A,43,386042,369530,Normal
+15/01/2025,Scotland,Flat,F,39,90002,90684,Normal
+09/03/2025,North West,Terraced,A,135,261745,271002,Stagnant
+02/01/2025,Scotland,Flat,E,112,144907,148172,Normal
+13/03/2025,North West,Terraced,D,106,209364,206442,Normal
+10/02/2025,London,Flat,F,102,413205,396143,Normal
+21/03/2025,Yorkshire,Detached,C,16,308816,299618,Normal
+09/03/2025,London,Semi-Detached,E,23,562153,564710,Normal
+12/03/2025,Wales,Terraced,D,105,145562,141298,Normal
+27/01/2025,North West,Detached,F,48,280846,282081,Normal
+14/03/2025,North West,Semi-Detached,A,53,290341,282549,Normal
+09/01/2025,West Midlands,Terraced,B,21,236341,244587,Normal
+17/01/2025,West Midlands,Semi-Detached,A,78,260192,257519,Normal
+07/02/2025,North West,Semi-Detached,D,61,234483,228517,Normal
+10/02/2025,North West,Terraced,D,59,242660,250239,Normal
+17/03/2025,Scotland,Detached,F,51,212419,209080,System_Error_Null
+11/01/2025,South East,Flat,B,16,221240,212644,Normal
+18/01/2025,Wales,Terraced,D,66,228583,230193,System_Error_Null
+10/02/2025,Yorkshire,Flat,C,84,107205,108079,Normal
+18/02/2025,Wales,Terraced,D,87,164938,168480,Normal
+28/03/2025,London,Flat,F,12,242119,235829,High Demand
+15/03/2025,North West,Semi-Detached,A,85,221247,220003,Normal
+03/03/2025,West Midlands,Flat,F,122,187165,183091,Stagnant
+11/02/2025,West Midlands,Detached,D,29,257590,246796,Normal
+03/02/2025,Wales,Detached,C,93,228777,237393,Normal
+20/03/2025,North West,Terraced,A,16,203412,208067,Normal
+13/01/2025,North West,Terraced,E,147,262441,257231,Stagnant
+17/01/2025,London,Semi-Detached,C,63,624222,630426,Normal
+20/03/2025,Yorkshire,Semi-Detached,C,113,207321,201127,Normal
+09/02/2025,South East,Terraced,C,30,465972,484156,Normal
+14/03/2025,North West,Semi-Detached,E,51,245348,235900,Normal
+05/02/2025,South East,Detached,E,36,699342,664643,Normal
+14/02/2025,London,Detached,A,14,960833,961026,Normal
+08/03/2025,South East,Terraced,A,20,341939,344782,Normal
+18/02/2025,Wales,Semi-Detached,F,149,173251,174619,Stagnant
+20/01/2025,North West,Semi-Detached,F,30,177550,169640,Normal
+01/02/2025,Scotland,Detached,D,-16,261041,256186,High Demand
+26/02/2025,North West,Flat,E,139,179962,179947,Stagnant
+09/03/2025,Wales,Flat,E,18,113823,110597,Normal
+12/03/2025,West Midlands,Semi-Detached,E,83,209955,217779,Normal
+22/01/2025,West Midlands,Detached,E,121,410791,393830,Stagnant
+13/01/2025,London,Terraced,A,11,589865,589121,High Demand
+20/02/2025,North West,Terraced,D,141,180944,184408,System_Error_Null
+01/04/2025,South East,Semi-Detached,F,119,373269,364376,Normal
+01/03/2025,Scotland,Flat,B,76,117734,119197,Normal
+22/01/2025,Wales,Semi-Detached,D,63,232344,239997,Normal
+20/02/2025,West Midlands,Flat,A,86,107510,104181,Normal
+27/02/2025,North West,Flat,F,120,118598,123546,Normal
+02/03/2025,North West,Terraced,E,-13,232463,233709,High Demand
+02/02/2025,South East,Terraced,E,21,345867,338924,Normal
+06/02/2025,South East,Detached,E,18,607553,603352,Normal
+08/01/2025,London,Flat,B,112,341192,334784,Normal
+08/02/2025,Wales,Flat,C,49,110586,113075,Normal
+12/01/2025,South East,Flat,B,102,307534,316646,Normal
+12/02/2025,Wales,Flat,F,135,130464,134807,Stagnant
+27/03/2025,West Midlands,Flat,D,41,117607,123320,Normal
+24/02/2025,London,Detached,A,112,834445,858751,Normal
+25/01/2025,Scotland,Detached,A,43,339321,342761,Normal
+15/01/2025,Yorkshire,Detached,A,19,344721,339178,Normal
+26/01/2025,Yorkshire,Semi-Detached,C,124,174888,175668,Stagnant
+27/03/2025,London,Flat,A,8,444208,423822,High Demand
+16/02/2025,Scotland,Flat,A,97,120330,123276,Normal
+13/02/2025,Wales,Detached,C,145,223273,222066,Stagnant
+30/01/2025,South East,Detached,E,20,453807,432025,Normal
+02/03/2025,London,Detached,B,112,608135,581530,Normal
+12/02/2025,Yorkshire,Flat,C,130,155321,153573,Stagnant
+14/02/2025,London,Terraced,E,59,442711,446404,Normal
+31/01/2025,Scotland,Semi-Detached,C,38,159766,159194,Normal
+01/04/2025,Scotland,Flat,A,17,150696,152492,Normal
+07/01/2025,Wales,Terraced,E,145,182214,181855,Stagnant
+06/01/2025,Yorkshire,Semi-Detached,B,22,156104,158628,Normal
+17/01/2025,Wales,Flat,F,100,87814,85348,Normal
+01/03/2025,Yorkshire,Flat,C,127,102545,98575,Stagnant
+03/03/2025,London,Terraced,E,-7,474688,479265,High Demand
+27/02/2025,Scotland,Semi-Detached,D,50,227808,22781,Normal
+19/01/2025,North West,Semi-Detached,B,33,182026,173413,Normal
+14/01/2025,London,Detached,D,66,618248,610859,Normal
+24/02/2025,Scotland,Flat,D,20,144213,138533,Normal
+03/03/2025,South East,Semi-Detached,A,125,444409,445802,Stagnant
+11/03/2025,West Midlands,Semi-Detached,F,14,243040,240507,System_Error_Null
+23/02/2025,Scotland,Detached,B,107,298498,29850,Normal
+04/03/2025,London,Semi-Detached,E,88,509194,524756,Normal
+08/03/2025,North West,Detached,C,137,318570,312188,Stagnant
+05/01/2025,South East,Detached,D,69,565789,591934,Normal
+17/02/2025,Wales,Terraced,F,7,187437,188104,High Demand
+01/01/2025,West Midlands,Flat,A,146,189367,191607,Stagnant
+27/02/2025,West Midlands,Detached,C,124,249863,254377,Stagnant
+24/02/2025,South East,Semi-Detached,B,72,471632,479496,Normal
+02/01/2025,Yorkshire,Semi-Detached,B,-17,168543,168728,High Demand
+23/03/2025,Wales,Flat,D,77,142620,141604,System_Error_Null
+02/03/2025,West Midlands,Flat,D,147,162510,155259,Stagnant
+23/01/2025,London,Semi-Detached,D,-10,695147,661925,High Demand
+26/03/2025,North West,Flat,E,125,104191,102711,Stagnant
+23/02/2025,London,Terraced,F,92,595643,585735,Normal
+17/02/2025,North West,Semi-Detached,F,144,230152,227568,Stagnant
+19/01/2025,West Midlands,Semi-Detached,B,41,284754,274456,System_Error_Null
+03/03/2025,Wales,Terraced,A,65,205451,210344,Normal
+03/01/2025,Yorkshire,Terraced,A,128,223918,231911,Stagnant
+09/02/2025,South East,Flat,A,43,231151,241292,Normal
+17/01/2025,Scotland,Semi-Detached,D,67,182913,182773,Normal
+03/02/2025,North West,Semi-Detached,C,50,227517,232087,Normal
+27/01/2025,London,Semi-Detached,C,92,441472,457169,Normal
+06/02/2025,Scotland,Flat,E,15,159090,157790,Normal
+15/02/2025,West Midlands,Flat,F,66,171612,168341,Normal
+04/01/2025,Wales,Detached,F,81,359348,375042,Normal
+28/03/2025,West Midlands,Terraced,E,56,210916,211247,Normal
+30/01/2025,North West,Flat,F,8,169865,169818,High Demand
+24/03/2025,Wales,Flat,C,63,143446,138833,Normal
+13/03/2025,West Midlands,Terraced,E,76,280281,269299,Normal
+26/02/2025,Yorkshire,Semi-Detached,F,97,235129,23513,Normal
+18/02/2025,Scotland,Terraced,E,67,183885,185984,Normal
+02/03/2025,Scotland,Terraced,D,58,246868,242568,Normal
+31/03/2025,Wales,Detached,E,121,282010,273317,Stagnant
+11/02/2025,West Midlands,Terraced,B,114,186917,18692,Normal
+27/03/2025,Scotland,Terraced,C,78,183421,184960,Normal
+02/01/2025,West Midlands,Semi-Detached,D,111,320036,310659,Normal
+09/01/2025,South East,Detached,C,61,683783,707812,Normal
+04/01/2025,South East,Detached,A,7,728794,698495,High Demand
+19/01/2025,London,Detached,A,124,867717,855230,Stagnant
+09/02/2025,London,Semi-Detached,E,10,486629,495407,High Demand
+24/01/2025,Yorkshire,Detached,E,9,243116,237625,High Demand
+24/02/2025,South East,Semi-Detached,C,9,325794,336470,High Demand
+04/01/2025,North West,Semi-Detached,A,58,162771,166676,Normal
+10/01/2025,London,Detached,A,51,751434,773152,Normal
+27/03/2025,London,Detached,C,13,653800,628897,High Demand
+18/02/2025,North West,Detached,C,103,304684,293732,Normal
+11/02/2025,Scotland,Detached,D,24,366533,358707,Normal
+15/01/2025,West Midlands,Detached,A,126,339224,339838,Stagnant
+18/02/2025,Scotland,Semi-Detached,A,65,254626,260941,Normal
+01/03/2025,North West,Semi-Detached,E,127,244771,253008,Stagnant
+21/02/2025,Scotland,Semi-Detached,C,86,175139,178717,Normal
+14/01/2025,Yorkshire,Terraced,E,66,199329,207872,Normal
+13/02/2025,West Midlands,Flat,D,149,113354,116060,Stagnant
+27/02/2025,South East,Terraced,A,7,361698,354691,High Demand
+20/02/2025,South East,Terraced,A,17,445998,435520,Normal
+06/01/2025,Wales,Detached,D,124,208367,212455,Stagnant
+25/02/2025,North West,Terraced,A,129,188756,182959,Stagnant
+23/03/2025,North West,Semi-Detached,C,93,213402,204710,Normal
+08/01/2025,South East,Terraced,A,77,520602,522280,Normal
+02/02/2025,Yorkshire,Flat,F,72,153832,158780,Normal
+13/01/2025,Yorkshire,Terraced,C,146,249554,239606,Stagnant
+07/03/2025,Scotland,Flat,A,105,95184,97962,Normal
+25/02/2025,London,Semi-Detached,A,102,673349,694328,Normal
+10/03/2025,West Midlands,Flat,A,15,178159,177843,Normal
+30/03/2025,South East,Detached,F,109,598178,571697,Normal
+25/02/2025,Scotland,Flat,B,71,161271,156023,Normal
+22/01/2025,London,Semi-Detached,D,127,513839,524497,Stagnant
+14/03/2025,South East,Semi-Detached,A,33,510612,521425,Normal
+22/03/2025,South East,Flat,F,141,302465,314514,Stagnant
+18/02/2025,London,Semi-Detached,D,80,404018,407359,Normal
+25/02/2025,Yorkshire,Terraced,A,13,211865,203902,High Demand
+17/03/2025,Scotland,Semi-Detached,F,44,267115,257003,Normal
+27/03/2025,South East,Flat,A,-3,183159,187209,High Demand
+28/03/2025,London,Flat,C,9,355035,343808,High Demand
+22/02/2025,Wales,Detached,B,143,363891,357646,Stagnant
+28/01/2025,London,Flat,B,128,356654,356198,Stagnant
+29/03/2025,South East,Flat,D,42,195903,186593,Normal
+17/03/2025,West Midlands,Detached,B,76,371919,362577,Normal
+04/03/2025,North West,Terraced,C,137,188622,186884,Stagnant
+22/01/2025,North West,Flat,C,94,139655,136578,Normal
+26/01/2025,West Midlands,Flat,F,41,112442,108353,Normal
+06/02/2025,Wales,Flat,D,64,128503,131433,Normal
+04/01/2025,London,Flat,E,32,348526,34853,Normal
+04/02/2025,West Midlands,Semi-Detached,F,85,289985,282952,System_Error_Null
+26/02/2025,South East,Semi-Detached,A,118,434522,446446,Normal
+02/03/2025,North West,Flat,F,44,142167,140540,Normal
+30/03/2025,London,Terraced,E,49,641423,641851,Normal
+23/03/2025,Wales,Semi-Detached,D,66,157633,163245,Normal
+19/02/2025,West Midlands,Detached,F,97,374760,384127,Normal
+02/01/2025,London,Semi-Detached,A,119,460239,474281,Normal
+01/01/2025,Scotland,Detached,A,71,364862,351612,Normal
+30/03/2025,North West,Terraced,A,-6,169567,162271,High Demand
+26/02/2025,South East,Semi-Detached,A,44,385442,400605,Normal
+05/02/2025,Yorkshire,Detached,B,102,342357,338517,Normal
+21/02/2025,Scotland,Detached,F,44,282395,276405,Normal
+16/02/2025,South East,Detached,A,95,423589,433107,Normal
+19/02/2025,Yorkshire,Terraced,B,37,225599,233189,Normal
+24/02/2025,Yorkshire,Terraced,A,10,237337,245940,High Demand
+25/03/2025,Wales,Detached,D,84,316700,310873,Normal
+07/01/2025,Wales,Flat,D,96,111435,115359,Normal
+28/01/2025,Scotland,Flat,F,101,129013,123090,Normal
+27/03/2025,South East,Terraced,F,63,390418,372836,Normal
+23/03/2025,Scotland,Terraced,B,63,228679,231504,Normal
+15/02/2025,Yorkshire,Detached,C,52,321458,307414,Normal
+30/01/2025,North West,Terraced,C,17,233606,229509,Normal
+02/02/2025,Yorkshire,Terraced,C,111,185187,188386,Normal
+25/01/2025,West Midlands,Semi-Detached,C,49,176311,173442,Normal
+26/01/2025,Scotland,Semi-Detached,F,93,165934,160618,Normal
+24/02/2025,Scotland,Semi-Detached,C,104,158750,155279,Normal
+23/02/2025,West Midlands,Semi-Detached,E,11,245159,244119,High Demand
+21/02/2025,Scotland,Semi-Detached,D,137,221145,220600,Stagnant
+06/01/2025,West Midlands,Flat,D,49,125289,128835,Normal
+26/03/2025,South East,Semi-Detached,E,62,510069,522829,Normal
+12/01/2025,South East,Terraced,B,35,281637,280421,Normal
+08/01/2025,London,Detached,B,27,938427,970866,Normal
+16/01/2025,London,Semi-Detached,D,142,618822,594950,Stagnant
+15/03/2025,Scotland,Terraced,A,111,191068,186393,Normal
+29/01/2025,Scotland,Flat,A,43,90217,93176,Normal
+14/03/2025,Yorkshire,Semi-Detached,D,86,235456,232583,Normal
+17/01/2025,Wales,Detached,C,104,262133,274746,Normal
+10/03/2025,London,Semi-Detached,D,6,727693,725238,High Demand
+08/01/2025,London,Terraced,C,81,589697,606912,Normal
+28/01/2025,West Midlands,Detached,E,16,448989,444603,Normal
+06/02/2025,South East,Flat,A,43,200411,198907,Normal
+17/03/2025,South East,Semi-Detached,C,17,457803,452441,Normal
+18/02/2025,Yorkshire,Detached,B,50,327732,334912,Normal
+20/02/2025,London,Detached,B,117,922310,926693,Normal
+23/01/2025,Wales,Flat,C,21,99778,104206,Normal
+12/03/2025,Wales,Terraced,F,108,221462,215945,Normal
+06/03/2025,Yorkshire,Terraced,C,102,218239,209522,Normal
+22/02/2025,London,Detached,B,92,923984,914122,Normal
+19/01/2025,West Midlands,Semi-Detached,E,113,226365,229007,System_Error_Null
+21/02/2025,Yorkshire,Terraced,B,74,270378,280133,System_Error_Null
+28/01/2025,North West,Semi-Detached,F,78,171802,169160,Normal
+08/02/2025,North West,Flat,B,67,163804,166323,Normal
+10/02/2025,Scotland,Flat,D,64,151516,149246,Normal
+17/02/2025,Wales,Detached,F,83,336159,340099,Normal
+10/01/2025,North West,Flat,F,41,139069,144421,Normal
+01/04/2025,London,Semi-Detached,D,26,553435,538567,Normal
+04/03/2025,North West,Detached,F,100,419267,415253,Normal
+15/02/2025,Wales,Semi-Detached,D,72,168074,176364,Normal
+25/03/2025,West Midlands,Terraced,D,21,260219,269809,Normal
+21/01/2025,Scotland,Detached,E,16,319907,321975,Normal
+04/02/2025,North West,Terraced,E,149,258121,258551,Stagnant
+09/01/2025,West Midlands,Semi-Detached,F,142,207420,202952,Stagnant
+05/01/2025,London,Detached,E,122,880457,881972,Stagnant
+09/03/2025,London,Detached,F,26,961001,994461,Normal
+10/02/2025,Yorkshire,Flat,C,124,95191,96954,Stagnant
+30/01/2025,South East,Flat,E,54,301994,295653,Normal
+14/01/2025,Yorkshire,Detached,A,18,218294,21829,Normal
+28/03/2025,West Midlands,Flat,C,33,138492,135240,Normal
+22/03/2025,London,Detached,C,129,567748,548999,Stagnant
+31/01/2025,Yorkshire,Detached,C,11,227164,217979,High Demand
+29/01/2025,Scotland,Detached,D,33,362330,359400,Normal
+08/01/2025,Wales,Semi-Detached,C,143,183470,176376,Stagnant
+02/02/2025,Yorkshire,Terraced,A,37,208495,201654,Normal
+13/03/2025,Scotland,Detached,B,138,239587,240721,Stagnant
+10/03/2025,London,Terraced,E,115,608984,588558,Normal
+13/01/2025,West Midlands,Detached,D,83,374640,358301,Normal
+23/03/2025,North West,Flat,E,62,127265,124941,Normal
+21/02/2025,Scotland,Flat,A,30,111577,108457,Normal
+15/01/2025,West Midlands,Flat,E,33,187371,187657,Normal
+22/03/2025,Scotland,Semi-Detached,F,8,192294,184648,High Demand
+26/01/2025,North West,Flat,A,103,137454,140915,Normal
+28/03/2025,Scotland,Flat,A,145,107818,112198,Stagnant
+25/02/2025,South East,Semi-Detached,F,43,472759,484267,Normal
+05/03/2025,Wales,Terraced,B,19,188687,189307,Normal
+19/03/2025,Scotland,Terraced,C,123,208715,216243,Stagnant
+06/02/2025,North West,Detached,A,-9,273658,278992,High Demand
+29/03/2025,West Midlands,Semi-Detached,A,79,328100,312041,Normal
+13/01/2025,Wales,Flat,B,120,105425,104308,Normal
+30/03/2025,North West,Terraced,A,36,267904,277306,Normal
+28/01/2025,West Midlands,Detached,C,134,338568,333349,Stagnant
+02/02/2025,South East,Terraced,F,88,330523,315161,Normal
+13/01/2025,South East,Terraced,C,26,475931,487648,Normal
+19/03/2025,North West,Semi-Detached,B,31,206705,212948,Normal
+03/01/2025,Scotland,Terraced,B,85,253014,244427,Normal
+14/01/2025,London,Semi-Detached,C,130,720340,723030,Stagnant
+21/02/2025,Yorkshire,Terraced,A,96,266357,258152,Normal
+07/03/2025,London,Terraced,F,25,412253,421291,Normal
+06/01/2025,London,Flat,D,-8,405348,396088,High Demand
+26/03/2025,South East,Semi-Detached,B,105,380778,373780,Normal
+06/03/2025,Wales,Detached,B,88,345843,357774,Normal
+18/03/2025,North West,Detached,F,10,349039,348213,High Demand
+13/01/2025,London,Flat,A,135,415065,422111,Stagnant
+13/03/2025,London,Terraced,A,5,574801,569190,High Demand
+01/04/2025,South East,Flat,C,62,246649,24665,Normal
+03/03/2025,London,Detached,A,128,630750,638664,Stagnant
+05/01/2025,Scotland,Flat,B,19,145669,140642,Normal
+22/03/2025,North West,Terraced,E,68,218715,215937,Normal
+21/01/2025,Wales,Detached,B,29,281764,273565,Normal
+15/01/2025,South East,Semi-Detached,A,28,472349,481597,Normal
+16/02/2025,London,Detached,D,16,853434,891345,Normal
+14/02/2025,Scotland,Detached,A,22,237074,248821,Normal
+11/01/2025,South East,Semi-Detached,A,19,424607,422496,Normal
+09/02/2025,London,Semi-Detached,B,31,542672,529242,Normal
+17/03/2025,Scotland,Detached,F,76,284424,282798,Normal
+31/01/2025,London,Flat,E,64,245945,254486,Normal
+29/01/2025,London,Flat,D,149,284106,275754,Stagnant
+29/03/2025,London,Terraced,F,97,498363,520894,Normal
+16/03/2025,Wales,Detached,A,57,318273,313240,Normal
+09/02/2025,London,Flat,E,12,242413,254190,High Demand
+18/02/2025,South East,Detached,D,83,532211,550232,Normal
+22/01/2025,Yorkshire,Semi-Detached,E,31,274896,283378,Normal
+29/01/2025,West Midlands,Terraced,C,54,193230,189711,Normal
+07/01/2025,Wales,Terraced,D,135,203262,193277,Stagnant
+01/04/2025,South East,Semi-Detached,F,97,472698,467126,Normal
+05/01/2025,Scotland,Semi-Detached,F,28,262759,257551,Normal
+08/03/2025,Yorkshire,Semi-Detached,A,64,251321,239695,Normal
+27/01/2025,South East,Detached,D,126,639154,639497,Stagnant
+03/01/2025,Yorkshire,Detached,C,135,366692,363136,Stagnant
+11/03/2025,Wales,Detached,B,50,272524,276190,Normal
+28/01/2025,West Midlands,Semi-Detached,B,19,300100,303737,Normal
+24/01/2025,Scotland,Detached,D,21,203005,195306,Normal
+13/02/2025,West Midlands,Flat,F,130,191029,200141,Stagnant
+09/01/2025,Wales,Semi-Detached,B,88,194305,19431,Normal
+01/04/2025,West Midlands,Flat,D,13,156732,155875,High Demand
+27/03/2025,Scotland,Semi-Detached,E,67,176115,175906,Normal
+12/02/2025,London,Flat,A,121,395931,408327,Stagnant
+29/03/2025,Scotland,Flat,D,134,92194,88499,Stagnant
+05/03/2025,London,Terraced,B,92,705423,700389,Normal
+21/03/2025,West Midlands,Terraced,F,76,303530,307430,Normal
+21/02/2025,London,Detached,D,143,665869,646903,Stagnant
+14/03/2025,London,Flat,D,68,409958,415184,Normal
+27/02/2025,Yorkshire,Detached,C,76,359220,374439,Normal
+08/03/2025,South East,Flat,F,25,260936,273918,Normal
+09/03/2025,Wales,Detached,F,22,260059,247900,Normal
+06/03/2025,Scotland,Terraced,D,68,178209,17821,Normal
+23/02/2025,London,Detached,B,86,673574,660797,System_Error_Null
+11/02/2025,Scotland,Semi-Detached,B,114,184145,182287,Normal
+28/03/2025,Yorkshire,Detached,F,99,381043,371221,Normal
+16/01/2025,West Midlands,Terraced,F,36,187957,182384,Normal
+11/02/2025,Scotland,Flat,B,15,149063,155838,Normal
+22/02/2025,North West,Semi-Detached,E,49,208845,217585,Normal
+19/01/2025,North West,Detached,A,37,326233,311455,Normal
+17/01/2025,Scotland,Flat,A,106,146463,144102,Normal
+09/02/2025,Scotland,Semi-Detached,D,140,255431,253009,Stagnant
+17/03/2025,Yorkshire,Terraced,F,15,197856,19786,Normal
+04/01/2025,Yorkshire,Detached,F,92,298795,302646,Normal
+30/01/2025,Yorkshire,Flat,F,45,124278,126023,Normal
+03/02/2025,Wales,Detached,F,149,198273,205222,Stagnant
+18/02/2025,Yorkshire,Detached,D,80,267905,274358,Normal
+17/01/2025,Scotland,Semi-Detached,F,125,201858,202717,Stagnant
+10/01/2025,Wales,Flat,F,50,114215,115970,System_Error_Null
+10/03/2025,Wales,Terraced,B,84,228436,223273,Normal
+10/01/2025,London,Semi-Detached,F,58,534681,539657,Normal
+18/02/2025,London,Detached,B,90,799794,798933,Normal
+15/01/2025,West Midlands,Detached,D,96,339024,326593,Normal
+23/02/2025,Yorkshire,Flat,A,101,150302,146432,Normal
+16/01/2025,North West,Flat,C,6,168490,164980,High Demand
+19/03/2025,London,Detached,C,37,820626,855446,Normal
+20/02/2025,Wales,Terraced,A,81,236705,230324,Normal
+26/01/2025,London,Detached,F,120,705425,690558,Normal
+08/03/2025,North West,Flat,E,107,141475,139627,Normal
+19/02/2025,West Midlands,Flat,B,107,137499,139751,Normal
+17/02/2025,South East,Semi-Detached,B,94,381479,366916,Normal
+14/01/2025,South East,Flat,A,126,275665,288179,Stagnant
+26/02/2025,Yorkshire,Semi-Detached,E,147,269261,279105,Stagnant
+27/02/2025,Wales,Terraced,E,110,154883,156079,Normal
+17/03/2025,South East,Detached,C,123,609681,620292,Stagnant
+11/03/2025,Scotland,Detached,F,53,304290,289583,Normal
+03/01/2025,Wales,Terraced,C,108,154506,152017,Normal
+09/02/2025,South East,Terraced,A,65,331914,341727,Normal
+03/03/2025,Wales,Detached,A,127,249337,238802,Stagnant
+09/01/2025,North West,Terraced,D,138,183370,179379,Stagnant
+02/02/2025,South East,Terraced,A,13,339714,342611,High Demand
+24/03/2025,Scotland,Flat,D,10,106631,104033,High Demand
+10/03/2025,North West,Flat,B,77,124197,129586,Normal
+26/01/2025,London,Terraced,F,107,662287,637852,Normal
+03/03/2025,Yorkshire,Terraced,B,45,228064,234847,Normal
+02/02/2025,West Midlands,Semi-Detached,F,118,327882,328143,Normal
+19/01/2025,Wales,Flat,F,12,114483,117349,High Demand
+23/03/2025,Scotland,Flat,B,76,143392,140678,System_Error_Null
+28/03/2025,North West,Semi-Detached,F,96,282006,282414,Normal
+10/02/2025,Wales,Flat,E,-18,133905,138683,High Demand
+05/03/2025,Yorkshire,Flat,C,88,124067,123656,Normal
+09/01/2025,Yorkshire,Terraced,A,66,252228,248690,Normal
+05/02/2025,West Midlands,Terraced,A,115,207365,208114,Normal
+12/03/2025,West Midlands,Terraced,A,131,226443,231365,Stagnant
+01/02/2025,London,Terraced,E,11,591340,588003,High Demand
+27/03/2025,North West,Semi-Detached,D,88,240557,251115,Normal
+26/01/2025,Wales,Flat,C,136,85627,83872,Stagnant
+31/03/2025,Scotland,Terraced,C,138,263084,262439,Stagnant
+09/03/2025,Scotland,Detached,C,62,324485,332822,Normal
+20/02/2025,North West,Detached,C,26,321158,327232,Normal
+15/01/2025,South East,Detached,C,131,712063,737956,Stagnant
+25/01/2025,North West,Terraced,C,7,221473,232476,High Demand
+23/02/2025,South East,Detached,B,131,728289,722963,System_Error_Null
+25/02/2025,Wales,Semi-Detached,B,45,202755,194871,Normal
+14/02/2025,Wales,Semi-Detached,B,110,154000,146768,Normal
+09/01/2025,Scotland,Terraced,E,18,240365,245818,Normal
+26/03/2025,Scotland,Detached,D,16,321358,333377,Normal
+13/02/2025,London,Flat,F,91,402327,391091,Normal
+31/01/2025,South East,Flat,F,16,307862,297347,Normal
+08/02/2025,Wales,Flat,F,145,141072,134896,Stagnant
+31/01/2025,North West,Terraced,B,29,245587,253512,Normal
+04/03/2025,Wales,Terraced,A,49,245020,240399,Normal
+17/03/2025,North West,Flat,A,126,152553,151053,Stagnant
+26/01/2025,Wales,Terraced,B,59,189995,190047,Normal
+17/01/2025,London,Detached,C,104,993954,1027694,Normal
+24/02/2025,Scotland,Terraced,B,140,171959,174553,Stagnant
+11/02/2025,Wales,Terraced,D,123,227544,230162,Stagnant
+26/01/2025,Wales,Semi-Detached,D,57,247992,239948,Normal
+16/01/2025,Scotland,Terraced,F,36,236146,236457,Normal
+11/03/2025,Wales,Flat,C,55,135250,138163,Normal
+12/02/2025,South East,Semi-Detached,F,48,464396,486374,Normal
+22/01/2025,West Midlands,Terraced,A,-2,247619,240225,High Demand
+02/03/2025,West Midlands,Terraced,E,41,310622,295388,Normal
+31/03/2025,Scotland,Detached,C,100,237486,227400,Normal
+08/01/2025,West Midlands,Detached,C,60,273865,270465,Normal
+03/03/2025,Scotland,Semi-Detached,E,-3,179974,185743,High Demand
+11/01/2025,West Midlands,Detached,A,63,361008,343216,Normal
+15/01/2025,South East,Terraced,A,135,405088,403335,Stagnant
+12/03/2025,Yorkshire,Detached,C,-15,365595,359352,High Demand
+12/01/2025,Yorkshire,Terraced,F,97,205808,196597,Normal
+07/03/2025,Yorkshire,Semi-Detached,F,101,216418,215341,Normal
+26/03/2025,London,Semi-Detached,E,139,404679,394754,Stagnant
+07/02/2025,Scotland,Terraced,C,80,195627,192730,Normal
+30/01/2025,London,Terraced,F,53,626721,639607,Normal
+08/03/2025,Wales,Semi-Detached,D,98,141900,142206,Normal
+30/03/2025,Scotland,Detached,E,28,251148,241721,Normal
+05/01/2025,Wales,Detached,C,41,231665,242354,Normal
+06/01/2025,South East,Semi-Detached,B,8,290286,294232,High Demand
+06/02/2025,Yorkshire,Detached,A,112,302038,310068,Normal
+06/01/2025,South East,Terraced,C,130,324522,310867,Stagnant
+06/01/2025,South East,Semi-Detached,F,24,462055,441127,Normal
+16/02/2025,Scotland,Terraced,A,54,250839,25084,Normal
+09/02/2025,Yorkshire,Terraced,A,100,224563,217574,Normal
+20/03/2025,Wales,Terraced,A,109,260259,258032,Normal
+07/01/2025,Yorkshire,Terraced,B,121,211914,221149,Stagnant
+23/03/2025,North West,Semi-Detached,E,102,231872,230876,Normal
+03/01/2025,West Midlands,Semi-Detached,E,70,328340,321453,Normal
+18/03/2025,South East,Flat,F,83,202038,203289,Normal
+13/02/2025,Scotland,Flat,C,10,157656,151538,High Demand
+20/01/2025,London,Flat,B,43,248996,251723,Normal
+31/01/2025,West Midlands,Detached,E,119,342641,344986,Normal
+14/03/2025,West Midlands,Terraced,D,129,186781,192234,Stagnant
+15/01/2025,North West,Flat,B,16,157256,164909,Normal
+11/02/2025,Scotland,Flat,A,135,132396,129097,Stagnant
+04/03/2025,Wales,Detached,B,22,317188,317494,Normal
+18/01/2025,London,Terraced,A,44,531068,552782,Normal
+31/01/2025,Scotland,Flat,F,25,114333,117593,System_Error_Null
+13/03/2025,London,Flat,E,147,249517,249203,Stagnant
+23/03/2025,South East,Terraced,E,103,365737,382025,Normal
+02/01/2025,West Midlands,Semi-Detached,E,30,319110,304981,Normal
+27/02/2025,Yorkshire,Terraced,B,12,202437,211162,High Demand
+09/02/2025,Yorkshire,Detached,C,104,367601,351077,Normal
+29/03/2025,Wales,Terraced,C,91,243185,244335,Normal
+13/01/2025,London,Detached,F,46,742888,771894,System_Error_Null
+01/01/2025,Wales,Semi-Detached,F,18,217419,212260,Normal
+06/01/2025,West Midlands,Semi-Detached,C,82,190687,190158,Normal
+18/01/2025,Wales,Semi-Detached,A,6,152701,150018,High Demand
+18/02/2025,South East,Detached,A,123,408690,427168,Stagnant
+21/02/2025,West Midlands,Detached,C,41,371667,383696,Normal
+10/01/2025,North West,Flat,C,73,131790,134544,Normal
+02/02/2025,Scotland,Detached,E,45,298273,300887,Normal
+22/02/2025,North West,Flat,C,66,139770,144251,Normal
+29/03/2025,North West,Terraced,A,64,209028,206776,Normal
+04/03/2025,London,Detached,B,129,891962,887284,Stagnant
+27/03/2025,London,Terraced,D,115,665476,680782,Normal
+05/01/2025,Scotland,Terraced,E,18,145843,143769,Normal
+28/02/2025,Scotland,Detached,D,88,238158,227772,Normal
+04/02/2025,Yorkshire,Semi-Detached,D,134,246860,236352,Stagnant
+21/02/2025,London,Detached,D,74,749444,720617,Normal
+28/03/2025,North West,Terraced,B,149,252748,262091,Stagnant
+06/02/2025,North West,Detached,F,127,292005,291194,Stagnant
+06/03/2025,Scotland,Flat,B,93,115941,118409,Normal
+09/01/2025,Yorkshire,Terraced,F,32,173104,171251,Normal
+14/03/2025,Scotland,Terraced,A,70,176537,172277,Normal
+05/01/2025,Scotland,Flat,F,9,132169,130149,High Demand
+01/04/2025,North West,Detached,B,49,308900,317987,Normal
+07/02/2025,London,Flat,A,51,402604,407645,Normal
+01/04/2025,South East,Terraced,E,-11,488883,510279,High Demand
+05/03/2025,Yorkshire,Flat,B,143,134423,136839,Stagnant
+22/01/2025,Scotland,Flat,C,14,143725,144734,Normal
+15/02/2025,North West,Detached,C,122,284153,287285,Stagnant
+10/02/2025,Scotland,Semi-Detached,D,18,196286,204970,Normal
+17/03/2025,London,Terraced,B,84,649472,668190,Normal
+20/02/2025,London,Terraced,D,97,535174,509702,Normal
+13/03/2025,West Midlands,Flat,B,14,159978,160524,Normal
+04/03/2025,Scotland,Flat,A,80,100414,102305,Normal
+26/03/2025,North West,Flat,B,98,146381,150021,Normal
+14/02/2025,Scotland,Semi-Detached,E,109,252551,245306,Normal
+04/03/2025,South East,Flat,A,5,295690,306547,High Demand
+15/03/2025,West Midlands,Semi-Detached,C,137,287549,300657,System_Error_Null
+26/01/2025,Yorkshire,Terraced,E,24,251185,244572,Normal
+13/03/2025,West Midlands,Semi-Detached,F,12,261921,271942,High Demand
+11/01/2025,London,Detached,D,5,846487,812372,High Demand
+17/01/2025,London,Detached,E,61,625489,597699,Normal
+11/01/2025,Wales,Semi-Detached,C,68,194373,187166,Normal
+02/03/2025,Yorkshire,Flat,B,122,127172,121548,Stagnant
+03/03/2025,West Midlands,Detached,A,-2,453052,468683,High Demand
+15/03/2025,London,Flat,C,125,330528,315954,Stagnant
+27/02/2025,Wales,Detached,D,111,290212,283586,Normal
+21/02/2025,Wales,Flat,E,53,123194,118312,Normal
+31/03/2025,London,Flat,F,124,373720,366074,Stagnant
+30/03/2025,West Midlands,Semi-Detached,B,48,291228,279304,Normal
+26/02/2025,Wales,Semi-Detached,E,60,167568,170383,Normal
+25/03/2025,South East,Flat,C,115,245722,236713,Normal
+09/03/2025,London,Terraced,E,138,689071,713316,Stagnant
+17/03/2025,West Midlands,Flat,A,112,148392,153099,Normal
+30/03/2025,West Midlands,Flat,B,118,131329,13133,Normal
+30/01/2025,Scotland,Semi-Detached,A,82,226493,22649,Normal
+01/01/2025,South East,Terraced,E,134,481823,459126,Stagnant
+08/02/2025,Scotland,Terraced,C,41,151956,147999,Normal
+11/02/2025,Yorkshire,Detached,C,24,357438,340724,Normal
+15/01/2025,West Midlands,Detached,C,30,423547,416594,Normal
+04/03/2025,South East,Terraced,F,33,393073,393618,Normal
+20/02/2025,Scotland,Terraced,D,5,267897,275844,System_Error_Null
+11/02/2025,Scotland,Semi-Detached,D,123,243125,239186,Stagnant
+27/03/2025,West Midlands,Flat,B,39,177086,180725,Normal
+14/01/2025,West Midlands,Semi-Detached,B,63,291167,282068,Normal
+18/01/2025,Yorkshire,Flat,D,73,103219,105805,Normal
+21/02/2025,Wales,Flat,D,16,99966,97327,Normal
+30/01/2025,Yorkshire,Flat,C,24,128226,123656,Normal
+26/02/2025,West Midlands,Detached,F,47,303319,293777,Normal
+30/01/2025,Yorkshire,Detached,D,130,290118,280894,Stagnant
+16/02/2025,West Midlands,Semi-Detached,C,54,312823,313226,Normal
+01/04/2025,South East,Terraced,C,33,481960,498578,Normal
+16/01/2025,South East,Semi-Detached,A,43,434360,416100,Normal
+16/03/2025,North West,Terraced,C,42,280137,285934,Normal
+25/03/2025,London,Terraced,A,88,674320,684728,Normal
+21/03/2025,London,Detached,A,132,770203,77020,Stagnant
+12/01/2025,London,Semi-Detached,E,130,470373,458338,Stagnant
+20/01/2025,Scotland,Semi-Detached,C,49,208789,207748,Normal
+14/03/2025,South East,Semi-Detached,F,56,460376,479980,Normal
+07/02/2025,London,Flat,C,84,331648,336954,Normal
+17/01/2025,North West,Detached,A,128,354687,350742,System_Error_Null
+02/02/2025,South East,Semi-Detached,B,123,303110,291938,Stagnant
+22/01/2025,South East,Detached,E,12,648566,633161,High Demand
+02/01/2025,Wales,Semi-Detached,E,89,239557,241503,Normal
+11/01/2025,Yorkshire,Terraced,A,133,246009,24601,Stagnant
+13/01/2025,Scotland,Semi-Detached,E,12,265875,255890,High Demand
+24/01/2025,Scotland,Semi-Detached,A,100,248158,250630,Normal
+10/02/2025,South East,Flat,E,106,300755,302269,Normal
+28/03/2025,Yorkshire,Semi-Detached,A,9,276165,276550,High Demand
+15/02/2025,South East,Semi-Detached,D,90,476330,485386,Normal
+02/02/2025,London,Detached,B,38,890387,920433,Normal
+23/03/2025,South East,Semi-Detached,C,59,281401,276420,Normal
+08/03/2025,London,Terraced,A,123,563039,584942,Stagnant
+30/01/2025,Scotland,Semi-Detached,F,118,215966,208637,Normal
+28/01/2025,London,Flat,B,149,303846,293911,Stagnant
+31/03/2025,Scotland,Semi-Detached,B,30,184081,179788,Normal
+01/02/2025,North West,Semi-Detached,F,140,294562,283355,Stagnant
+27/02/2025,London,Flat,A,51,427259,42726,Normal
+31/03/2025,South East,Semi-Detached,E,117,488049,468840,Normal
+16/01/2025,Scotland,Detached,B,80,273220,282011,Normal
+10/03/2025,London,Semi-Detached,F,76,404794,390180,Normal
+04/02/2025,Scotland,Semi-Detached,D,93,154108,157919,Normal
+28/01/2025,South East,Semi-Detached,B,50,356488,340372,Normal
+21/01/2025,North West,Detached,C,37,227086,237271,Normal
+26/02/2025,North West,Detached,F,5,227361,232162,High Demand
+27/03/2025,Yorkshire,Terraced,C,35,273908,260399,Normal
+11/02/2025,Yorkshire,Detached,F,146,344287,353371,Stagnant
+08/01/2025,Wales,Terraced,E,57,177847,178098,Normal
+29/03/2025,West Midlands,Detached,D,52,274998,282681,Normal
+13/03/2025,Wales,Detached,D,73,283746,284384,Normal
+06/02/2025,South East,Semi-Detached,F,109,281310,285277,Normal
+01/03/2025,London,Semi-Detached,C,94,728445,749302,Normal
+05/01/2025,West Midlands,Flat,F,67,143929,142563,Normal
+26/03/2025,Yorkshire,Detached,E,77,287715,273407,System_Error_Null
+01/02/2025,West Midlands,Semi-Detached,A,93,236151,244415,Normal
+24/03/2025,London,Flat,B,17,254559,251527,Normal
+13/03/2025,Wales,Terraced,A,77,218194,218108,Normal
+07/01/2025,South East,Flat,A,81,275752,262178,Normal
+25/01/2025,North West,Semi-Detached,F,72,254658,254456,Normal
+15/01/2025,Wales,Semi-Detached,C,102,156958,164594,Normal
+01/04/2025,London,Semi-Detached,F,129,602594,589233,Stagnant
+12/02/2025,Wales,Detached,C,106,293667,290595,Normal
+09/01/2025,West Midlands,Semi-Detached,F,136,309735,315533,Stagnant
+23/01/2025,South East,Terraced,C,106,372886,384625,Normal
+23/02/2025,South East,Flat,B,23,222608,220770,Normal
+04/02/2025,Yorkshire,Semi-Detached,D,86,234264,229805,Normal
+15/02/2025,London,Terraced,B,145,621575,648790,System_Error_Null
+17/01/2025,Yorkshire,Flat,E,27,128649,130928,Normal
+15/02/2025,West Midlands,Detached,E,87,341924,328897,Normal
+21/01/2025,Wales,Terraced,E,113,200533,191889,Normal
+10/01/2025,Yorkshire,Semi-Detached,C,79,266519,266081,Normal
+07/02/2025,Wales,Terraced,F,133,196493,190993,Stagnant
+24/01/2025,North West,Terraced,F,92,291590,284417,Normal
+15/03/2025,Wales,Semi-Detached,C,58,201740,209360,Normal
+20/03/2025,South East,Semi-Detached,E,93,512554,491517,Normal
+18/02/2025,North West,Detached,E,147,387235,395575,Stagnant
+19/02/2025,Wales,Flat,E,69,110639,108107,Normal
+12/03/2025,North West,Terraced,C,80,280910,288223,System_Error_Null
+17/03/2025,South East,Semi-Detached,D,147,306966,313793,Stagnant
+08/02/2025,Wales,Flat,A,64,151991,144504,Normal
+02/01/2025,London,Detached,C,97,869505,870300,Normal
+12/03/2025,West Midlands,Flat,F,53,110626,106636,Normal
+08/02/2025,West Midlands,Terraced,D,39,275216,285295,Normal
+04/01/2025,London,Detached,B,106,1037381,1075929,Normal
+15/03/2025,London,Semi-Detached,B,15,424430,420965,Normal
+06/03/2025,Wales,Semi-Detached,A,103,207949,206793,Normal
+29/01/2025,Scotland,Semi-Detached,C,114,238222,233536,Normal
+10/03/2025,North West,Flat,C,78,164062,167615,Normal
+30/03/2025,North West,Terraced,B,13,217936,214856,High Demand
+31/03/2025,West Midlands,Terraced,D,7,207442,202625,High Demand
+08/01/2025,Scotland,Flat,F,89,89601,88994,Normal
+26/02/2025,North West,Terraced,F,30,241162,231310,Normal
+24/02/2025,Wales,Detached,F,76,273674,280423,Normal
+15/01/2025,Yorkshire,Detached,B,52,389456,370474,Normal
+04/01/2025,West Midlands,Flat,F,121,111200,112807,Stagnant
+15/01/2025,Scotland,Terraced,D,16,230360,223054,Normal
+15/01/2025,North West,Detached,E,137,228893,222768,Stagnant
+05/03/2025,West Midlands,Terraced,C,52,202401,205146,System_Error_Null
+26/01/2025,South East,Terraced,A,41,391127,410407,Normal
+20/01/2025,London,Detached,A,48,782887,804630,Normal
+15/01/2025,Wales,Semi-Detached,D,19,223998,217857,Normal
+08/02/2025,West Midlands,Flat,B,47,189704,183558,Normal
+17/03/2025,London,Flat,A,91,374197,387901,Normal
+19/01/2025,Scotland,Terraced,E,74,264145,262671,Normal
+03/01/2025,North West,Semi-Detached,D,50,283426,273139,Normal
+23/01/2025,Wales,Flat,E,112,126961,131559,Normal
+26/02/2025,South East,Semi-Detached,F,127,484279,499587,Stagnant
+15/02/2025,West Midlands,Terraced,A,25,274957,288262,Normal
+20/03/2025,North West,Terraced,B,111,170998,178005,Normal
+11/03/2025,Scotland,Semi-Detached,B,84,237311,245660,Normal
+18/03/2025,Yorkshire,Terraced,A,51,164623,157257,Normal
+25/02/2025,Wales,Semi-Detached,C,121,212775,204358,Stagnant
+28/03/2025,West Midlands,Flat,B,128,170524,171700,Stagnant
+16/01/2025,Scotland,Terraced,D,147,152382,152862,Stagnant
+23/01/2025,Scotland,Terraced,A,29,173080,172353,Normal
+29/01/2025,Scotland,Flat,D,40,155625,154019,Normal
+08/03/2025,Scotland,Detached,F,55,310318,308183,Normal
+09/01/2025,Scotland,Terraced,D,19,175032,176245,Normal
+30/01/2025,North West,Semi-Detached,F,72,256695,243914,Normal
+08/01/2025,Wales,Semi-Detached,F,25,213105,208006,Normal
+04/02/2025,West Midlands,Terraced,D,145,253243,253706,Stagnant
+07/02/2025,Scotland,Semi-Detached,F,23,267000,272933,Normal
+10/02/2025,Wales,Detached,C,38,313212,303007,Normal
+26/01/2025,North West,Terraced,B,82,212562,213558,Normal
+20/01/2025,London,Flat,F,129,408015,416766,Stagnant
+16/01/2025,West Midlands,Detached,A,121,437116,434696,Stagnant
+17/01/2025,South East,Terraced,D,56,310679,295986,Normal
+28/03/2025,Yorkshire,Detached,E,31,250143,25014,Normal
+07/03/2025,West Midlands,Detached,F,39,293019,287054,Normal
+18/02/2025,Yorkshire,Detached,A,140,341504,356176,Stagnant
+23/01/2025,South East,Semi-Detached,D,148,427745,411688,Stagnant
+14/02/2025,Scotland,Semi-Detached,D,110,221993,225378,Normal
+16/01/2025,London,Flat,A,6,437562,417991,High Demand
+06/01/2025,Scotland,Semi-Detached,B,81,241765,240463,Normal
+01/01/2025,Yorkshire,Flat,C,136,101409,101957,Stagnant
+09/01/2025,West Midlands,Terraced,C,94,229516,224879,Normal
+08/03/2025,Yorkshire,Detached,F,93,293870,292550,Normal
+01/01/2025,South East,Semi-Detached,E,98,377011,364326,System_Error_Null
+10/01/2025,London,Flat,D,11,380555,373101,High Demand
+10/02/2025,Yorkshire,Semi-Detached,E,99,270622,273899,Normal
+15/03/2025,Wales,Detached,B,112,248488,243563,Normal
+09/03/2025,Wales,Semi-Detached,A,78,207605,215904,Normal
+22/02/2025,Scotland,Flat,E,43,146079,147955,Normal
+10/01/2025,Yorkshire,Flat,D,145,124414,12441,Stagnant
+16/03/2025,Scotland,Detached,D,75,231256,220590,Normal
+23/02/2025,West Midlands,Detached,F,60,348799,348784,Normal
+02/03/2025,Wales,Terraced,A,46,146765,150651,Normal
+22/03/2025,Wales,Semi-Detached,C,40,255442,249453,Normal
+23/02/2025,South East,Semi-Detached,E,88,298331,307483,Normal
+26/03/2025,South East,Detached,F,122,542391,528929,Stagnant
+28/01/2025,Wales,Flat,E,11,122946,126927,High Demand
+20/01/2025,West Midlands,Semi-Detached,D,58,327737,314145,Normal
+06/01/2025,West Midlands,Detached,D,133,282194,292528,Stagnant
+10/02/2025,West Midlands,Flat,F,124,116173,116164,Stagnant
+10/02/2025,Scotland,Detached,A,110,203136,199003,Normal
+14/03/2025,Yorkshire,Semi-Detached,F,51,172691,168635,Normal
+11/03/2025,Wales,Detached,D,127,231547,229973,Stagnant
+17/03/2025,Yorkshire,Flat,B,145,141520,148583,Stagnant
+06/03/2025,West Midlands,Detached,E,123,293769,285553,Stagnant
+05/03/2025,West Midlands,Terraced,E,122,179160,172051,Stagnant
+17/01/2025,South East,Semi-Detached,D,25,482521,486625,Normal
+21/02/2025,Wales,Detached,A,141,258700,258403,Stagnant
+27/03/2025,Scotland,Terraced,F,30,188566,18857,Normal
+24/02/2025,South East,Terraced,F,13,354107,360019,High Demand
+07/02/2025,West Midlands,Semi-Detached,B,19,326207,318612,Normal
+01/04/2025,North West,Terraced,B,14,183816,191365,Normal
+24/01/2025,London,Detached,B,126,1000137,993703,Stagnant
+13/01/2025,South East,Detached,F,125,658444,65844,Stagnant
+10/02/2025,North West,Terraced,F,129,170707,174843,Stagnant
+12/01/2025,West Midlands,Terraced,C,76,327956,332649,Normal
+15/03/2025,Yorkshire,Detached,E,53,263328,258476,Normal
+09/03/2025,North West,Detached,A,95,243322,246279,Normal
+29/01/2025,West Midlands,Terraced,B,41,303714,295206,Normal
+10/01/2025,London,Flat,A,72,388402,386259,Normal
+13/01/2025,West Midlands,Detached,E,54,379472,394629,Normal
+23/01/2025,London,Semi-Detached,D,23,454593,437934,Normal
+27/01/2025,Yorkshire,Flat,F,104,129384,127918,Normal
+05/01/2025,Yorkshire,Detached,C,64,358140,369641,Normal
+04/03/2025,Wales,Detached,F,93,248072,259718,Normal
+26/01/2025,North West,Flat,F,73,122182,121619,Normal
+06/02/2025,North West,Semi-Detached,E,-17,160440,160552,High Demand
+01/02/2025,North West,Flat,A,112,110636,111435,Normal
+14/02/2025,Wales,Flat,B,123,148342,154756,Stagnant
+28/03/2025,South East,Semi-Detached,E,41,388228,402134,Normal
+15/01/2025,North West,Detached,F,147,416910,403177,Stagnant
+22/01/2025,South East,Semi-Detached,B,15,376948,374565,Normal
+10/01/2025,South East,Flat,E,142,273132,272149,Stagnant
+01/02/2025,Yorkshire,Detached,A,82,265293,272963,Normal
+21/03/2025,South East,Flat,B,81,221480,223759,Normal
+16/01/2025,Wales,Flat,F,6,98018,99530,High Demand
+29/03/2025,North West,Flat,E,68,125153,131388,Normal
+10/02/2025,Yorkshire,Semi-Detached,D,39,224783,215228,Normal
+26/01/2025,South East,Terraced,D,11,522984,508498,High Demand
+18/01/2025,London,Terraced,C,89,632471,626645,Normal
+09/03/2025,West Midlands,Detached,C,71,289357,284953,Normal
+28/03/2025,North West,Detached,B,46,232812,221676,Normal
+01/03/2025,South East,Detached,F,122,435340,417569,Stagnant
+28/01/2025,North West,Semi-Detached,B,129,238758,243078,Stagnant
+03/03/2025,South East,Flat,B,28,280479,291118,Normal
+22/03/2025,North West,Flat,B,50,174995,175244,Normal
+25/01/2025,West Midlands,Flat,D,23,107062,107482,Normal
+28/02/2025,Wales,Detached,D,72,285653,278658,Normal
+17/01/2025,London,Flat,C,106,338882,347960,Normal
+23/01/2025,West Midlands,Flat,E,46,166219,170405,Normal
+15/01/2025,Wales,Detached,B,36,291968,294548,Normal
+31/03/2025,West Midlands,Flat,F,113,169082,164224,Normal
+07/01/2025,London,Flat,D,40,378197,362957,Normal
+08/01/2025,North West,Semi-Detached,F,101,176382,17638,Normal
+07/02/2025,Yorkshire,Flat,B,135,155017,156454,Stagnant
+07/03/2025,Scotland,Terraced,D,77,159527,164713,Normal
+26/03/2025,Yorkshire,Flat,D,140,146943,152208,Stagnant
+13/02/2025,Yorkshire,Flat,C,101,124408,123956,Normal
+25/01/2025,Scotland,Detached,F,127,292243,300551,Stagnant
+16/03/2025,Yorkshire,Terraced,A,74,272139,284300,System_Error_Null
+28/02/2025,London,Flat,A,17,426876,417278,Normal
+21/03/2025,Yorkshire,Detached,D,53,365085,361360,Normal
+09/01/2025,London,Detached,F,64,809973,844921,Normal
+24/03/2025,North West,Detached,E,134,368303,362345,Stagnant
+26/02/2025,North West,Terraced,C,9,231806,241399,High Demand
+15/02/2025,London,Detached,B,31,986107,1033543,Normal
+28/01/2025,North West,Semi-Detached,D,12,216389,219890,High Demand
+23/02/2025,North West,Detached,F,54,414166,427291,Normal
+10/03/2025,Wales,Detached,A,71,355893,364775,Normal
+31/01/2025,Wales,Flat,E,48,138508,141271,Normal
+04/01/2025,London,Flat,F,129,298677,292911,Stagnant
+21/01/2025,Yorkshire,Flat,E,62,101706,97201,Normal
+07/03/2025,Wales,Semi-Detached,B,7,244701,240861,High Demand
+16/03/2025,South East,Terraced,B,90,320499,325849,Normal
+13/02/2025,Yorkshire,Semi-Detached,E,74,265617,255059,Normal
+03/02/2025,West Midlands,Semi-Detached,A,134,251578,239299,Stagnant
+02/03/2025,North West,Flat,E,-4,130151,125461,High Demand
+16/02/2025,North West,Semi-Detached,B,106,286447,292626,Normal
+03/03/2025,South East,Semi-Detached,D,39,427943,448176,Normal
+09/03/2025,Scotland,Detached,A,102,303315,317967,Normal
+11/02/2025,Wales,Semi-Detached,B,34,208449,208323,Normal
+08/02/2025,West Midlands,Flat,B,120,139896,145063,Normal
+19/01/2025,North West,Semi-Detached,F,12,269990,276384,High Demand
+21/01/2025,South East,Detached,D,48,478710,478760,Normal
+27/02/2025,South East,Detached,E,40,714041,719236,Normal
+31/03/2025,Yorkshire,Flat,B,81,162540,156644,Normal
+19/03/2025,Scotland,Terraced,E,35,186523,194686,Normal
+11/01/2025,South East,Semi-Detached,D,51,458719,451926,Normal
+19/01/2025,Scotland,Terraced,B,59,216226,215062,Normal
+23/02/2025,Scotland,Semi-Detached,E,110,186544,189746,Normal
+11/02/2025,North West,Detached,E,125,417750,410812,Stagnant
+04/03/2025,Wales,Flat,B,59,85855,83745,Normal
+01/03/2025,North West,Flat,A,148,117222,118758,Stagnant
+31/01/2025,Wales,Terraced,A,16,203709,194033,Normal
+24/01/2025,North West,Detached,F,149,326303,333505,Stagnant
+16/03/2025,South East,Flat,E,148,254573,254930,Stagnant
+28/02/2025,Yorkshire,Semi-Detached,E,144,251973,254638,Stagnant
+14/03/2025,Wales,Terraced,D,140,216376,219230,Stagnant
+03/02/2025,South East,Terraced,A,7,427069,428224,High Demand
+12/01/2025,South East,Flat,D,148,175867,177318,Stagnant
+21/01/2025,South East,Semi-Detached,A,34,372250,379091,Normal
+01/03/2025,West Midlands,Semi-Detached,D,27,211737,217096,Normal
+03/01/2025,London,Flat,F,96,295728,302454,Normal
+05/01/2025,Yorkshire,Flat,C,119,135436,140442,Normal
+08/03/2025,Scotland,Terraced,F,108,169138,163885,Normal
+13/01/2025,North West,Flat,E,122,120692,119499,Stagnant
+27/02/2025,North West,Flat,E,9,115915,121106,High Demand
+07/03/2025,London,Semi-Detached,C,-2,731976,724407,High Demand
+20/03/2025,Yorkshire,Terraced,C,112,277641,267225,Normal
+01/02/2025,London,Detached,D,69,858871,861057,Normal
+06/01/2025,North West,Flat,C,125,173660,166878,Stagnant
+01/02/2025,Wales,Semi-Detached,D,34,236262,229242,Normal
+29/01/2025,West Midlands,Detached,A,88,373593,392210,Normal
+29/03/2025,London,Flat,D,36,241351,242350,Normal
+25/02/2025,Yorkshire,Terraced,D,20,254745,249244,Normal
+03/02/2025,London,Flat,E,42,387523,406696,Normal
+21/02/2025,Scotland,Flat,B,146,132913,139114,Stagnant
+19/01/2025,London,Semi-Detached,B,40,666149,662201,Normal
+13/01/2025,South East,Detached,A,118,567932,554325,Normal
+17/01/2025,North West,Semi-Detached,E,70,258572,267322,Normal
+07/03/2025,West Midlands,Terraced,E,109,320017,32002,Normal
+20/02/2025,Scotland,Flat,E,89,114811,116957,Normal
+27/01/2025,South East,Detached,C,6,634886,659844,High Demand
+17/01/2025,South East,Flat,F,79,237926,242433,Normal
+07/01/2025,South East,Flat,B,71,267137,261361,Normal
+16/01/2025,Yorkshire,Detached,C,-13,354851,361730,High Demand
+28/02/2025,London,Flat,B,10,249545,244699,High Demand
+10/01/2025,Yorkshire,Terraced,B,147,237998,244168,Stagnant
+08/01/2025,North West,Semi-Detached,C,90,191744,194040,Normal
+01/02/2025,London,Detached,B,64,888316,850777,Normal
+29/01/2025,Scotland,Flat,E,105,121806,121962,Normal
+26/01/2025,West Midlands,Flat,F,16,177076,174302,Normal
+28/03/2025,Yorkshire,Flat,C,53,101047,99315,Normal
+07/01/2025,Yorkshire,Terraced,F,46,235301,237707,Normal
+23/01/2025,South East,Terraced,B,86,348225,342038,Normal
+21/02/2025,South East,Semi-Detached,E,39,488981,502520,Normal
+26/02/2025,London,Detached,F,138,1014908,971347,Stagnant
+28/01/2025,North West,Flat,B,71,179697,182580,Normal
+14/01/2025,London,Terraced,B,84,678603,699585,Normal
+22/02/2025,West Midlands,Detached,D,11,408905,415972,High Demand
+13/03/2025,South East,Flat,A,18,199679,199623,Normal
+02/03/2025,North West,Detached,C,77,289857,302910,Normal
+11/03/2025,West Midlands,Flat,B,147,148629,145656,Stagnant
+19/01/2025,North West,Flat,E,70,160964,153224,Normal
+02/03/2025,North West,Flat,A,95,172857,171682,Normal
+31/01/2025,Yorkshire,Terraced,B,134,177156,168883,Stagnant
+18/02/2025,London,Detached,E,24,1011960,1057897,Normal
+16/03/2025,Scotland,Detached,D,14,324308,314901,Normal
+01/04/2025,Scotland,Terraced,C,29,220957,227341,Normal
+14/03/2025,Scotland,Flat,C,29,101508,104295,Normal
+01/04/2025,West Midlands,Terraced,A,58,184551,179342,Normal
+23/02/2025,North West,Terraced,B,37,239585,242489,Normal
+16/03/2025,West Midlands,Detached,A,99,386867,369383,Normal
+19/01/2025,Wales,Flat,A,18,99492,99329,Normal
+11/02/2025,West Midlands,Detached,A,69,366372,348590,Normal
+06/01/2025,London,Detached,B,114,979682,1020940,Normal
+26/03/2025,North West,Detached,A,84,387673,406129,Normal
+22/03/2025,South East,Semi-Detached,C,58,507202,493116,Normal
+10/02/2025,South East,Semi-Detached,D,129,369642,358852,Stagnant
+01/01/2025,West Midlands,Flat,A,135,134988,138413,Stagnant
+08/01/2025,West Midlands,Semi-Detached,A,138,291412,284225,Stagnant
+18/01/2025,West Midlands,Detached,B,29,339348,352755,Normal
+26/01/2025,London,Flat,D,145,258385,260295,Stagnant
+22/01/2025,North West,Terraced,C,121,199592,196614,Stagnant
+11/01/2025,West Midlands,Flat,A,140,144277,149077,Stagnant
+29/01/2025,Scotland,Detached,D,29,253200,253033,Normal
+18/03/2025,London,Detached,B,-15,722781,752533,High Demand
+03/03/2025,Yorkshire,Semi-Detached,B,72,191072,199250,Normal
+26/03/2025,Yorkshire,Detached,E,16,220527,213149,Normal
+31/01/2025,West Midlands,Detached,F,36,383758,364659,Normal
+12/02/2025,London,Flat,B,132,365431,383116,Stagnant
+12/01/2025,South East,Terraced,A,100,440079,457952,Normal
+19/01/2025,London,Flat,B,96,280385,267920,Normal
+21/02/2025,Yorkshire,Terraced,C,145,191322,197694,Stagnant
+16/02/2025,South East,Semi-Detached,B,35,431806,429984,Normal
+30/03/2025,Yorkshire,Flat,D,82,139050,135699,Normal
+09/03/2025,West Midlands,Detached,F,24,355565,35556,Normal
+18/03/2025,South East,Flat,B,64,219511,21951,Normal
+03/02/2025,South East,Terraced,A,138,503668,526197,Stagnant
+25/02/2025,Yorkshire,Semi-Detached,A,97,197189,191385,Normal
+12/03/2025,London,Semi-Detached,B,47,559467,565827,Normal
+15/03/2025,Scotland,Detached,B,134,321219,312324,Stagnant
+06/02/2025,Yorkshire,Terraced,C,64,224222,225246,Normal
+25/01/2025,Scotland,Flat,A,-11,112625,114697,High Demand
+01/04/2025,North West,Semi-Detached,A,9,220990,214145,High Demand
+03/03/2025,Yorkshire,Detached,C,14,360732,361486,Normal
+27/03/2025,London,Terraced,D,93,497345,495806,Normal
+18/01/2025,West Midlands,Flat,F,134,118744,113651,Stagnant
+31/03/2025,Scotland,Detached,B,130,256842,265017,Stagnant
+24/03/2025,Yorkshire,Detached,F,15,370983,364887,Normal
+04/03/2025,London,Semi-Detached,B,60,431146,434362,Normal
+14/02/2025,Yorkshire,Semi-Detached,F,-20,283896,284315,High Demand
+26/02/2025,West Midlands,Terraced,B,141,259314,259658,Stagnant
+20/01/2025,Yorkshire,Detached,D,103,396178,380617,Normal
+11/02/2025,Yorkshire,Detached,B,77,387641,384675,Normal
+21/02/2025,South East,Detached,F,119,547315,544708,Normal
+12/02/2025,West Midlands,Semi-Detached,B,11,206568,211394,System_Error_Null
+20/03/2025,North West,Detached,E,84,256317,265033,Normal
+22/01/2025,North West,Terraced,D,148,193599,194469,Stagnant
+15/02/2025,Yorkshire,Detached,E,101,345027,330770,Normal
+01/02/2025,North West,Flat,C,8,118928,115798,High Demand
+16/01/2025,Wales,Terraced,A,8,181825,175732,High Demand
+13/02/2025,London,Terraced,E,107,557073,536161,Normal
+26/03/2025,Wales,Semi-Detached,B,44,251871,248493,Normal
+17/01/2025,Yorkshire,Terraced,F,21,177189,172394,Normal
+06/03/2025,West Midlands,Terraced,D,105,176774,171794,Normal
+26/03/2025,North West,Terraced,D,107,168413,160914,Normal
+31/03/2025,London,Detached,D,128,1003336,954942,Stagnant
+04/01/2025,Yorkshire,Detached,B,56,333368,320125,Normal
+26/01/2025,North West,Semi-Detached,E,56,198226,191728,Normal
+01/02/2025,London,Flat,A,128,277210,275297,Stagnant
+09/01/2025,North West,Semi-Detached,C,67,201197,201409,Normal
+10/01/2025,Yorkshire,Terraced,C,120,167268,161256,Normal
+11/02/2025,Yorkshire,Flat,E,66,166334,165083,Normal
+08/01/2025,North West,Detached,E,11,377704,371727,High Demand
+16/02/2025,Scotland,Detached,B,96,283166,274201,Normal
+14/03/2025,Wales,Semi-Detached,A,18,245958,233828,Normal
+15/03/2025,Scotland,Semi-Detached,A,90,175432,174853,Normal
+04/01/2025,Scotland,Semi-Detached,B,137,234357,238708,Stagnant
+31/01/2025,Scotland,Semi-Detached,B,134,251873,244978,System_Error_Null
+29/01/2025,Yorkshire,Semi-Detached,D,66,199450,192107,Normal
+27/03/2025,Wales,Detached,D,83,325905,338519,Normal
+29/01/2025,Yorkshire,Detached,D,142,267742,261719,Stagnant
+04/03/2025,Wales,Terraced,D,62,176610,171729,Normal
+08/01/2025,Wales,Flat,C,124,91869,95149,Stagnant
+12/03/2025,Wales,Detached,B,137,271470,280078,Stagnant
+16/03/2025,Scotland,Terraced,D,69,235944,234725,Normal
+21/03/2025,West Midlands,Detached,D,17,449112,448628,Normal
+23/02/2025,Wales,Terraced,C,86,213965,207926,Normal
+02/03/2025,Yorkshire,Semi-Detached,E,143,266797,255546,Stagnant
+09/01/2025,Yorkshire,Flat,E,56,156835,157987,Normal
+12/03/2025,Scotland,Detached,A,121,232178,222852,Stagnant
+11/01/2025,London,Terraced,D,30,570036,567145,Normal
+22/03/2025,Yorkshire,Semi-Detached,E,38,167551,174931,Normal
+07/01/2025,Yorkshire,Detached,E,56,339817,355205,Normal
+17/02/2025,North West,Flat,A,116,175792,171209,Normal
+01/02/2025,Scotland,Detached,F,86,225783,228585,Normal
+04/01/2025,West Midlands,Detached,F,46,404625,403576,Normal
+09/03/2025,West Midlands,Semi-Detached,B,25,273365,283635,Normal
+20/01/2025,West Midlands,Semi-Detached,C,46,265875,259798,Normal
+15/02/2025,South East,Terraced,E,145,375579,356940,Stagnant
+27/01/2025,Scotland,Terraced,A,117,188747,182378,Normal
+05/03/2025,West Midlands,Terraced,C,109,182968,180215,Normal
+16/01/2025,West Midlands,Semi-Detached,A,21,209558,205696,Normal
+30/01/2025,Scotland,Semi-Detached,A,124,145912,150164,Stagnant
+21/01/2025,West Midlands,Semi-Detached,A,141,265538,270333,Stagnant
