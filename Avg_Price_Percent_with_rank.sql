@@ -5,5 +5,5 @@ SELECT
         ORDER BY AVG(Price_Variance_Percent) DESC
     ) AS Hotspot_Rank
 	
-FROM Housing_Transactions_Master
+FROM Housing_Transactions
 GROUP BY Region;
